@@ -1,0 +1,28 @@
+# R temp
+.RData
+.Rhistory
+.RDataTmp
+.rds*
+
+# Data files (DO NOT TRACK)
+*.csv
+*.xlsx
+
+
+# Outputs
+*.png
+*.pdf
+
+# GIS files
+*.shp
+*.shx
+*.dbf
+*.prj
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
