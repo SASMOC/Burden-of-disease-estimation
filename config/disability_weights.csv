@@ -1,0 +1,11 @@
+code_prefix,dw,source
+3a51,0.149,Bayesian_code.R preconception block (sickle cell disease)
+5a1,0.049,Bayesian_code.R preconception block (diabetes mellitus)
+8a6,0.552,Bayesian_code.R preconception block (epilepsy)
+5a00,0.051,Bayesian_code.R preconception block (hypothyroidism)
+5a02,0.133,Bayesian_code.R preconception block (goitre)
+bd71,0.133,Bayesian_code.R preconception block
+1c14,0.553,Bayesian_code.R preconception block (tetanus neonatorum)
+3a02,0.164,Bayesian_code.R preconception block
+5b5e,0.164,Bayesian_code.R preconception block
+ja25,0.553,Bayesian_code.R maternal complications (eclampsia)
