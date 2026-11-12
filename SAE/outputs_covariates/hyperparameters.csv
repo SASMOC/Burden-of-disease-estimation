@@ -1,0 +1,23 @@
+family,level,model,hyper,mean,lower,upper
+Fay-Herriot,Admin 1,No covariates,Precision for region.struct,2.202939679646921,1.1790496869258738,3.7768868482870994
+Fay-Herriot,Admin 1,No covariates,Phi for region.struct,0.7065192304724257,0.2918477950502026,0.9660993669686795
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,Precision for region.struct,3.0410776420239998,1.487860659332439,5.623212792303569
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,Phi for region.struct,0.43449919647245705,0.05150923050035566,0.9043956287435558
+Unit-level,Admin 1,No covariates,overdispersion for the betabinomial observations,0.07025677016937107,0.039185749316251385,0.1126453797554218
+Unit-level,Admin 1,No covariates,Precision for sID,2.19897087038221,1.201094817075953,3.6873382823917145
+Unit-level,Admin 1,No covariates,Phi for sID,0.6960902207742471,0.27738154128541603,0.9645731648352822
+Unit-level,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,overdispersion for the betabinomial observations,0.06645921190415498,0.03562831236951154,0.10738156287115759
+Unit-level,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,Precision for sID,2.8426634614854502,1.443964022490733,5.0779079843549
+Unit-level,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,Phi for sID,0.4595281737282407,0.0578995821488652,0.9173890485879225
+Unit-level,Admin 2,No covariates,overdispersion for the betabinomial observations,0.057949065397842066,0.027845794307193247,0.0998449903392889
+Unit-level,Admin 2,No covariates,Precision for sID,1.9429153462510627,1.1809929685367608,3.0305244588693556
+Unit-level,Admin 2,No covariates,Phi for sID,0.8903049926128015,0.6437665974822159,0.9908884396512007
+Unit-level,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,overdispersion for the betabinomial observations,0.058304247654819084,0.02800128826672686,0.10078316510621887
+Unit-level,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,Precision for sID,2.4598321496229225,1.3766531940166773,4.097740005203215
+Unit-level,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,Phi for sID,0.8159539929430062,0.4523173643942559,0.9843941394458862
+Unit-level,Admin 2,Nested: No covariates,overdispersion for the betabinomial observations,0.06215571227364583,0.03207858112126091,0.10369134193526881
+Unit-level,Admin 2,Nested: No covariates,Precision for sID,34.78277060848692,3.9014575204146507,169.16999209338618
+Unit-level,Admin 2,Nested: No covariates,Phi for sID,0.33889293316481034,0.008202012051414987,0.9298310463216182
+Unit-level,Admin 2,Nested: education_yrs + anc4plus + access_difficulty + facility_delivery,overdispersion for the betabinomial observations,0.06294715018689023,0.032631958062739705,0.10513507452214746
+Unit-level,Admin 2,Nested: education_yrs + anc4plus + access_difficulty + facility_delivery,Precision for sID,28.2129373431877,3.8028295865129307,129.4695085304083
+Unit-level,Admin 2,Nested: education_yrs + anc4plus + access_difficulty + facility_delivery,Phi for sID,0.30907722914645613,0.007646756890410271,0.90593435525204

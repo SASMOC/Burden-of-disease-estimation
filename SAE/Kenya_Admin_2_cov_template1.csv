@@ -1,0 +1,301 @@
+﻿admin2.name.full,education_yrs,fourplus_ANC,access_to_facility_difficulties,facility_delivery
+Baringo_805,9.572,0.571,0.174,0.882
+Baringo_Baringo Central,9.471,0.516,0.147,0.768
+Baringo_Baringo North,8.517,0.587,0.239,0.747
+Baringo_Baringo South,8.619,0.58,0.184,0.415
+Baringo_Eldama Ravine,9.945,0.676,0.102,0.541
+Baringo_Mogotio,9.268,0.572,0.257,0.433
+Baringo_Tiaty,6.152,0.279,0.328,0.088
+Bomet_Bomet Central,9.863,0.419,0.02,0.341
+Bomet_Bomet East,9.277,0.38,0.019,0.243
+Bomet_Chepalungu,9.461,0.347,0.047,0.273
+Bomet_Konoin,9.735,0.308,0.042,0.385
+Bomet_Sotik,9.957,0.335,0.029,0.521
+Bungoma_Bumula,9.416,0.538,0.209,0.366
+Bungoma_Kabuchai,9.614,0.407,0.172,0.329
+Bungoma_Kanduyi,9.571,0.516,0.162,0.261
+Bungoma_Kimilili,9.697,0.466,0.145,0.474
+Bungoma_Likuyani,9.907,0.649,0.059,0.66
+Bungoma_Lugari,9.88,0.616,0.058,0.584
+Bungoma_Mt. Elgon,9.003,0.35,0.312,0.317
+Bungoma_Sirisia,9.133,0.457,0.296,0.312
+Bungoma_Tongaren,9.865,0.426,0.167,0.554
+Bungoma_Webute West,9.667,0.595,0.058,0.574
+Bungoma_Webuye East,9.828,0.594,0.239,0.341
+Busia_Budalangi,9.046,0.58,0.119,0.681
+Busia_Butula,9.236,0.702,0.176,0.495
+Busia_Funyula,8.81,0.728,0.118,0.519
+Busia_Matayos,8.828,0.514,0.059,0.595
+Busia_Nambale,9.176,0.745,0.124,0.31
+Busia_Teso North,8.805,0.498,0.078,0.657
+Busia_Teso South,8.584,0.467,0.101,0.528
+Elgeyo-Marakwet_Keiyo North,9.726,0.411,0.058,0.672
+Elgeyo-Marakwet_Keiyo South,9.742,0.719,0.037,0.581
+Elgeyo-Marakwet_Marakwet East,8.384,0.204,0.097,0.227
+Elgeyo-Marakwet_Marakwet West,9.529,0.422,0.031,0.329
+Embu_Manyatta,9.241,0.522,0.068,0.756
+Embu_Mbeere North,9.105,0.404,0.127,0.657
+Embu_Mbeere South,9.165,0.545,0.197,0.514
+Embu_Runyenjes,9.584,0.587,0.063,0.48
+Garissa_Balambala,4.622,0,0.255,0
+Garissa_Daadab,3.768,0.423,0.185,0.262
+Garissa_Fafi,4.469,0.475,0.334,0.155
+Garissa_Garissa Township,5.741,0.642,0.145,0.752
+Garissa_Ijara,4.898,0.236,0.233,0.147
+Garissa_Lagdera,3.696,0.5,0.145,0.124
+Homa Bay_Homa Bay Town,9.763,0.588,0.011,0.643
+Homa Bay_Kabondo Kasipul,10.112,0.499,0.047,0.591
+Homa Bay_Karachuonyo,9.672,0.641,0.15,0.866
+Homa Bay_Kasipul,9.992,0.666,0.189,0.422
+Homa Bay_Mbita,9.106,0.688,0.094,0.676
+Homa Bay_Ndhiwa,9.204,0.576,0.188,0.574
+Homa Bay_Rangwe,9.667,0.365,0.103,0.618
+Homa Bay_Suba,8.889,0.598,0.196,0.469
+Homa Bay_unknown 6,9.553,0.638,0.091,0.598
+Isiolo_Isiolo North,4.447,0.527,0.077,0.412
+Isiolo_Isiolo South,4.441,0.314,0.107,0.148
+Kajiado_Kajiado Central,7.622,0.663,0.139,0.301
+Kajiado_Kajiado East,8.914,0.686,0.04,0.473
+Kajiado_Kajiado North,10.632,0.843,0.09,0.489
+Kajiado_Kajiado South,7.547,0.597,0.042,0.432
+Kajiado_Kajiado West,7.047,0.452,0.077,0.165
+Kakamega_Butere,9.276,0.287,0.225,0.376
+Kakamega_Ikolomani,10.019,0.5,0.111,0.286
+Kakamega_Khwisero,9.712,0.667,0.278,0.222
+Kakamega_Lugari,9.809,0.404,0.115,0.406
+Kakamega_Lurambi,9.761,0.539,0.13,0.421
+Kakamega_Malava,9.726,0.115,0.174,0.299
+Kakamega_Matungu,9.234,0.113,0.191,0.317
+Kakamega_Mumias East,9.238,0.498,0.144,0.486
+Kakamega_Mumias West,9.269,0.416,0.171,0.327
+Kakamega_Navakholo,9.597,0.322,0.173,0.175
+Kakamega_Shinyalu,9.604,0.378,0.195,0.308
+Kericho_Ainamoi,10.196,0.63,0.32,0.407
+Kericho_Belgut,9.954,0.448,0.241,0.452
+Kericho_Bureti,10.178,0.668,0.28,0.554
+Kericho_Kipkelion East,10.077,0.39,0.356,0.43
+Kericho_Kipkelion West,9.82,0.61,0.33,0.419
+Kericho_Sigowet/Soin,9.996,0.544,0.339,0.517
+Kiambu_Gatundu North,10.371,0.808,0,0.924
+Kiambu_Gatundu South,10.444,0.673,0.024,0.631
+Kiambu_Githunguri,10.941,0.611,0.048,0.855
+Kiambu_Juja,10.414,0.545,0.017,0.557
+Kiambu_Kabete,11.55,0.624,0,0.743
+Kiambu_Kiambaa,11.472,0.578,0.017,0.532
+Kiambu_Kiambu,11.65,0.5,0.1,0.429
+Kiambu_Kikuyu,10.343,0.817,0.018,0.459
+Kiambu_Lari,10.457,0.357,0.035,0.348
+Kiambu_Limuru,10.431,0.698,0,0.493
+Kiambu_Ruiru,10.702,0.83,0.023,0.419
+Kiambu_Thika Town,10.172,0.654,0.01,0.569
+Kilifi_Ganze,7.498,0.562,0.427,0.416
+Kilifi_Kaloleni,8.023,0.671,0.142,0.575
+Kilifi_Kilifi North,8.371,0.679,0.16,0.407
+Kilifi_Kilifi South,8.71,0.65,0.097,0.364
+Kilifi_Magarini,6.712,0.654,0.086,0.567
+Kilifi_Malindi,8.041,0.617,0.058,0.443
+Kilifi_Rabai,8.878,0.708,0.072,0.391
+Kirinyaga_Gichugu,9.2,0.64,0.072,0.823
+Kirinyaga_Kirinyaga Central,9.058,0.705,0.075,0.832
+Kirinyaga_Mwea,9.662,0.729,0.056,0.703
+Kirinyaga_Ndia,9.354,0.605,0.025,0.821
+Kisii_Bobasi,10.203,0.684,0.131,0.508
+Kisii_Bomachoge Borabu,9.383,0.394,0.065,0.579
+Kisii_Bomachoge Chache,10.272,0.5,0.096,0.612
+Kisii_Bonchari,10.316,0.543,0.047,0.587
+Kisii_Kitutu Chache North,10.349,0.544,0.042,0.606
+Kisii_Kitutu Chache South,10.773,0.45,0.038,0.67
+Kisii_Nyaribari Chache,10.561,0.673,0.065,0.526
+Kisii_Nyaribari Masaba,9.83,0.552,0.009,0.745
+Kisii_South Mugirango,9.631,0.393,0.078,0.27
+Kisumu_Kisumu Central,10.297,0.768,0.11,0.617
+Kisumu_Kisumu East,10.122,0.556,0.147,0.816
+Kisumu_Kisumu West,10.201,0.683,0.235,0.514
+Kisumu_Muhoroni,9.799,0.657,0.303,0.518
+Kisumu_Nyakach,9.871,0.642,0.236,0.449
+Kisumu_Nyando,9.767,0.492,0.233,0.4
+Kisumu_Seme,9.642,0.709,0.183,0.812
+Kitui_Kitui Central,9.596,0.52,0.154,0.543
+Kitui_Kitui East,8.086,0.433,0.34,0.199
+Kitui_Kitui Rural,9.422,0.775,0.174,0.336
+Kitui_Kitui South,8.106,0.566,0.216,0.186
+Kitui_Kitui West,9.247,0.646,0.203,0.349
+Kitui_Mwingi Central,7.819,0.597,0.126,0.501
+Kitui_Mwingi North,7.122,0.603,0.314,0.267
+Kitui_Mwingi West,8.854,0.68,0.272,0.472
+Kwale_Kinango,7.235,0.346,0.118,0.346
+Kwale_Lungalunga,6.962,0.612,0.193,0.335
+Kwale_Matuga,7.805,0.788,0.023,0.747
+Kwale_Msambweni,8.114,0.714,0.017,0.585
+Laikipia_Laikipia East,9.118,0.747,0.056,0.554
+Laikipia_Laikipia North,7.593,0.369,0.097,0.149
+Laikipia_Laikipia West,8.546,0.299,0.073,0.342
+Lamu_Lamu East,5.655,0.579,0.21,0.105
+Lamu_Lamu West,6.363,0.516,0.154,0.446
+Machakos_Kangundo,10.03,0.497,0.244,0.407
+Machakos_Kathiani,10.001,0.406,0.136,0.382
+Machakos_Machakos Town,9.871,0.533,0.209,0.617
+Machakos_Masinga,9.169,0.52,0.273,0.344
+Machakos_Matungulu,9.769,0.747,0.069,0.461
+Machakos_Mavoko,9.915,0.611,0.03,0.598
+Machakos_Mwala,9.784,0.43,0.229,0.365
+Machakos_unknown 7,9.175,,,
+Machakos_Yatta,9.531,0.434,0.158,0.434
+Makueni_Kaiti,9.893,0.639,0.151,0.691
+Makueni_Kibwezi East,8.657,0.542,0.213,0.23
+Makueni_Kibwezi West,8.888,0.68,0.18,0.362
+Makueni_Kilome,9.521,0.718,0.185,0.421
+Makueni_Makueni,9.37,0.607,0.062,0.553
+Makueni_Mbooni,9.803,0.567,0.224,0.413
+Mandera_Banissa,4.985,0,0.269,0.118
+Mandera_Lafey,4.546,0,0.324,0.01
+Mandera_Mandera East,4.502,0.537,0.268,0.474
+Mandera_Mandera North,4.661,0.099,0.351,0.086
+Mandera_Mandera South,4.469,0.172,0.338,0.34
+Mandera_Mandera West,4.572,0.103,0.273,0.053
+Mandera_unknown 1,4.456,0.5,0.585,0
+Marsabit_Laisamis,4.199,0.336,0.155,0.114
+Marsabit_Moyale,4.577,0.421,0.099,0.29
+Marsabit_North Horr,4.123,0.295,0.335,0.074
+Marsabit_Saku,5.245,0.726,0.069,0.535
+Meru_Buuri,8.427,0.497,0.178,0.447
+Meru_Central Imenti,8.567,0.136,0.115,0.529
+Meru_Igembe Central,6.709,0.093,0.087,0.347
+Meru_Igembe North,5.887,0.248,0.223,0.294
+Meru_Igembe South,6.731,0.403,0.042,0.511
+Meru_North Imenti,9.147,0.691,0.022,0.516
+Meru_South Imenti,8.574,0.463,0.095,0.325
+Meru_Tigania East,7.629,0.464,0.076,0.633
+Meru_Tigania West,8.468,0.576,0.063,0.689
+Meru_unknown 5,8.367,0.5,0.316,0.647
+Migori_Awendo,9.319,0.485,0.155,0.427
+Migori_Kuria East,7.797,0.449,0.122,0.368
+Migori_Kuria West,8.285,0.565,0.027,0.632
+Migori_Nyatike,8.287,0.658,0.187,0.374
+Migori_Rongo,9.538,0.534,0.118,0.459
+Migori_Suna East,8.715,0.667,0.161,0.285
+Migori_Suna West,8.232,0.593,0.131,0.332
+Migori_Uriri,8.908,0.392,0.028,0.531
+Mombasa_Changamwe,9.037,0.737,0.075,0.618
+Mombasa_Jomvu,9.428,0.821,0.093,0.5
+Mombasa_Kisauni,9.385,0.564,0.069,0.504
+Mombasa_Likoni,8.765,0.676,0.02,0.709
+Mombasa_Mvita,9.456,0.515,0.019,0.481
+Mombasa_Nyali,10.294,0.584,0.103,0.678
+Murang'a_Gatanga,10.133,0.51,0.065,0.548
+Murang'a_Kandara,10.566,0.574,0.071,0.636
+Murang'a_Kangema,9.748,0.751,0.018,0.758
+Murang'a_Kigumo,10.096,0.299,0.05,0.801
+Murang'a_Kiharu,10.089,0.602,0.092,0.839
+Murang'a_Maragwa,9.919,0.401,0.061,0.808
+Murang'a_Mathioya,9.969,0.869,0.015,0.757
+Nairobi_Dagoretti North,12.379,0.684,0,0.452
+Nairobi_Dagoretti South,11.889,0.887,,0.365
+Nairobi_Embakasi Central,12.502,,,
+Nairobi_Embakasi East,10.751,0.642,0.023,0.534
+Nairobi_Embakasi North,12.493,0.655,0.007,0.506
+Nairobi_Embakasi South,11.758,0.591,0.04,0.452
+Nairobi_Embakasi West,12.502,0.796,0.049,0.687
+Nairobi_Kamukunji,12.565,0.643,0.069,0.51
+Nairobi_Kasarani,10.73,0.603,0.078,0.543
+Nairobi_Kibra,12.379,1,0,0.5
+Nairobi_Langata,11.408,0.666,0.093,0.516
+Nairobi_Makadara,12.565,0.913,0.016,0.423
+Nairobi_Mathare,12.565,0.75,0,0.706
+Nairobi_Roysambu,12.404,0.713,0.017,0.554
+Nairobi_Ruaraka,12.538,1,0,0
+Nairobi_Starehe,12.628,0.816,0,0.091
+Nairobi_Westlands,12.102,0.652,0.013,0.549
+Nakuru_Bahati,10.304,0.742,0.032,0.667
+Nakuru_Gilgil,9.759,0.655,0.044,0.697
+Nakuru_Kuresoi North,9.905,0.185,0.219,0.2
+Nakuru_Kuresoi South,9.417,0.534,0.238,0.349
+Nakuru_Molo,9.866,0.377,0.074,0.572
+Nakuru_Naivasha,9.554,0.719,0.056,0.603
+Nakuru_Nakuru Town East,10.106,0.7,0.011,0.521
+Nakuru_Nakuru Town West,10.026,1,0.035,0.534
+Nakuru_Njoro,9.384,0.508,0.032,0.528
+Nakuru_Rongai,9.821,0.4,0.18,0.529
+Nakuru_Subukia,9.843,0.6,0,0.7
+Nandi_Aldai,10.034,0.562,0.08,0.474
+Nandi_Chesumei,9.947,0.519,0.154,0.379
+Nandi_Emgwen,9.98,0.602,0.046,0.432
+Nandi_Mosop,9.854,0.694,0.032,0.359
+Nandi_Nandi Hills,10.112,0.559,0.046,0.377
+Nandi_Tinderet,9.901,0.338,0.206,0.217
+Narok_Emurua Dikirr,8.873,0.331,0.027,0.372
+Narok_Kilgoris,7.978,0.488,0.124,0.259
+Narok_Narok East,7.641,0.195,0.09,0.049
+Narok_Narok North,8.516,0.488,0.12,0.419
+Narok_Narok South,7.098,0.475,0.106,0.358
+Narok_Narok West,7.034,0.35,0.038,0.388
+Nyamira_Borabu,10.1,0.656,0.046,0.545
+Nyamira_Kitutu Masaba,10.403,0.323,0.07,0.674
+Nyamira_North Mugirango,10.26,0.346,0.117,0.501
+Nyamira_West Mugirango,10.293,0.497,0.04,0.739
+Nyandarua_Kinangop,9.742,0.671,0.074,0.543
+Nyandarua_Kipipiri,9.845,0.424,0.161,0.824
+Nyandarua_Ndaragwa,9.542,0.836,0.111,0.72
+Nyandarua_Ol Jorok,10.01,0.596,0.135,0.764
+Nyandarua_Ol Kalou,9.991,0.61,0.185,0.661
+Nyeri_Kieni,9.157,0.491,0.151,0.714
+Nyeri_Mathira,9.088,0.421,0.042,0.811
+Nyeri_Mukurweini,10.509,0.62,0,0.625
+Nyeri_Nyeri Town,10.481,0.594,0.049,0.621
+Nyeri_Othaya,10.035,0.674,0.032,0.778
+Nyeri_Tetu,10.205,0.582,0.212,0.856
+Samburu_Samburu East,4.493,0.329,0.31,0.034
+Samburu_Samburu North,4.418,0.423,0.184,0.082
+Samburu_Samburu West,5.467,0.583,0.1,0.276
+Siaya_Alego Usonga,9.211,0.724,0.064,0.612
+Siaya_Bondo,9.223,0.664,0.065,0.645
+Siaya_Gem,9.392,0.491,0.072,0.771
+Siaya_Rarieda,9.329,0.552,0.092,0.687
+Siaya_Ugenya,9.318,0.568,0.169,0.452
+Siaya_Ugunja,9.38,0.73,0.061,0.644
+Taita Taveta_Mwatate,8.493,0.462,0.2,0.532
+Taita Taveta_Taveta,8.226,0.782,0.05,0.705
+Taita Taveta_Voi,7.984,0.787,0.055,0.739
+Taita Taveta_Wundanyi,9.103,0.256,0.179,0.424
+Tana River_Bura,5.249,0.48,0.17,0.32
+Tana River_Galole,5.707,0.447,0.096,0.435
+Tana River_Garsen,6.456,0.582,0.36,0.262
+Tharaka-Nithi_Chuka/Igambang'Ombe,9.077,0.403,0.168,0.657
+Tharaka-Nithi_Igembe South,7.929,1,0,0.571
+Tharaka-Nithi_Maara,8.909,0.936,0.093,0.553
+Tharaka-Nithi_Tharaka,7.387,0.608,0.291,0.496
+Trans Nzoia_Cherangany,9.733,0.421,0.115,0.436
+Trans Nzoia_Endebess,9.036,0.302,0.057,0.331
+Trans Nzoia_Kiminini,9.866,0.492,0.13,0.438
+Trans Nzoia_Kwanza,9.303,0.447,0.103,0.259
+Trans Nzoia_Saboti,9.704,0.181,0.119,0.287
+Trans Nzoia_unknown 4,9.595,0.422,0.046,0.343
+Turkana_Loima,3.549,0.476,0.227,0.03
+Turkana_Turkana Central,3.672,0.377,0.145,0.26
+Turkana_Turkana East,3.518,0.379,0.305,0.108
+Turkana_Turkana North,3.671,0.608,0.159,0.329
+Turkana_Turkana South,3.986,0.492,0.286,0.124
+Turkana_Turkana West,3.819,0.567,0.234,0.163
+Turkana_unknown 2,3.465,,,
+Uasin Gishu_Ainabkoi,10.124,0.523,0.131,0.21
+Uasin Gishu_Kapseret,10.264,0.722,0.012,0.629
+Uasin Gishu_Kesses,10.147,0.587,0.045,0.438
+Uasin Gishu_Moiben,10.069,0.594,0,0.651
+Uasin Gishu_Soy,10.172,0.53,0.08,0.556
+Uasin Gishu_Turbo,10.08,0.509,0.083,0.41
+Vihiga_Emuhaya,9.884,0.661,0,0.343
+Vihiga_Hamisi,10.08,0.505,0.269,0.38
+Vihiga_Luanda,10.059,0.726,0.125,0.382
+Vihiga_Sabatia,10.092,0.63,0.055,0.376
+Vihiga_Vihiga,10.182,0.747,0.067,0.663
+Wajir_Eldas,4.711,0.384,0.302,0.162
+Wajir_Tarbaj,4.596,0,0.556,0
+Wajir_Wajir East,4.432,0.551,0.227,0.392
+Wajir_Wajir North,4.545,0.299,0.184,0.083
+Wajir_Wajir South,3.649,0.436,0.281,0.209
+Wajir_Wajir West,4.576,0.42,0.196,0
+West Pokot_Kacheliba,4.754,0.102,0.306,0.056
+West Pokot_Kapenguria,6.959,0.251,0.147,0.431
+West Pokot_Pokot South,8.041,0.13,0.163,0.298
+West Pokot_Sigor,6.001,0.283,0.224,0.217
+West Pokot_unknown 3,6.83,0,0.158,0.094

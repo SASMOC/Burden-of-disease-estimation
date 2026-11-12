@@ -1,0 +1,61 @@
+family,level,model,n_cov,term,mean,lower,upper,excludes_zero
+Fay-Herriot,Admin 1,education_yrs,1,education_yrs,0.4938993737989653,0.2029295400377576,0.776740814708001,TRUE
+Fay-Herriot,Admin 1,anc4plus,1,anc4plus,0.2255842390972442,-0.04567069522218021,0.4910802965166054,FALSE
+Fay-Herriot,Admin 1,access_difficulty,1,access_difficulty,-0.2494647916879732,-0.503692931325629,0.004676008252661087,FALSE
+Fay-Herriot,Admin 1,facility_delivery,1,facility_delivery,0.41364500957852934,0.14446558570835494,0.6777568295313544,TRUE
+Fay-Herriot,Admin 1,education_yrs + anc4plus,2,education_yrs,0.44792626439498046,0.13840854686721382,0.7581313693422322,TRUE
+Fay-Herriot,Admin 1,education_yrs + anc4plus,2,anc4plus,0.0980823625377253,-0.16612848604885444,0.3568497066864765,FALSE
+Fay-Herriot,Admin 1,education_yrs + access_difficulty,2,education_yrs,0.4301414217246545,0.1289459923653609,0.7322826235796818,TRUE
+Fay-Herriot,Admin 1,education_yrs + access_difficulty,2,access_difficulty,-0.14184511139691228,-0.3909706083345949,0.11079427685821704,FALSE
+Fay-Herriot,Admin 1,education_yrs + facility_delivery,2,education_yrs,0.33926238969414824,-0.09339696420155524,0.7706860319935027,FALSE
+Fay-Herriot,Admin 1,education_yrs + facility_delivery,2,facility_delivery,0.18614013406927643,-0.20252671607058173,0.5734721870512431,FALSE
+Fay-Herriot,Admin 1,anc4plus + access_difficulty,2,anc4plus,0.1974645126382056,-0.06078466056342028,0.4512374275792765,FALSE
+Fay-Herriot,Admin 1,anc4plus + access_difficulty,2,access_difficulty,-0.2282748095757808,-0.47637788171168166,0.0207623225033143,FALSE
+Fay-Herriot,Admin 1,anc4plus + facility_delivery,2,anc4plus,0.08475481708642353,-0.19175795891794803,0.35699912807236783,FALSE
+Fay-Herriot,Admin 1,anc4plus + facility_delivery,2,facility_delivery,0.3731387432914641,0.07807674211821909,0.669941075476219,TRUE
+Fay-Herriot,Admin 1,access_difficulty + facility_delivery,2,access_difficulty,-0.1280700176624041,-0.390326007380362,0.13626486971296317,FALSE
+Fay-Herriot,Admin 1,access_difficulty + facility_delivery,2,facility_delivery,0.3551069609375121,0.06540838380427981,0.6447792041470978,TRUE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty,3,education_yrs,0.3891074173139312,0.0686999431325176,0.7154403770098061,TRUE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty,3,anc4plus,0.09140332791346939,-0.16954426871472322,0.3479468601955262,FALSE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty,3,access_difficulty,-0.13670045464756672,-0.3866708879177194,0.11652810304823046,FALSE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + facility_delivery,3,education_yrs,0.3312906059590787,-0.10471065881517043,0.7668577485894058,FALSE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + facility_delivery,3,anc4plus,0.06912868370293657,-0.20668924931671268,0.33990456572376354,FALSE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + facility_delivery,3,facility_delivery,0.15703040545769298,-0.24962671186444732,0.5634873501552451,FALSE
+Fay-Herriot,Admin 1,education_yrs + access_difficulty + facility_delivery,3,education_yrs,0.32732788459509315,-0.10106780127450142,0.7563445135939589,FALSE
+Fay-Herriot,Admin 1,education_yrs + access_difficulty + facility_delivery,3,access_difficulty,-0.11723040731594811,-0.3775103958438552,0.1462772993910928,FALSE
+Fay-Herriot,Admin 1,education_yrs + access_difficulty + facility_delivery,3,facility_delivery,0.1377890442665491,-0.2631286329345463,0.5396617721552112,FALSE
+Fay-Herriot,Admin 1,anc4plus + access_difficulty + facility_delivery,3,anc4plus,0.08856654563761453,-0.18595733273559711,0.35891487405847305,FALSE
+Fay-Herriot,Admin 1,anc4plus + access_difficulty + facility_delivery,3,access_difficulty,-0.1298215559906787,-0.3928226580174821,0.13547126505849763,FALSE
+Fay-Herriot,Admin 1,anc4plus + access_difficulty + facility_delivery,3,facility_delivery,0.31103666247066525,-0.006267465278602807,0.6331826543360666,FALSE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,4,education_yrs,0.3183807031026283,-0.11353345013211628,0.7517842135717921,FALSE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,4,anc4plus,0.07229982790602767,-0.20196600218036853,0.3417321561778107,FALSE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,4,access_difficulty,-0.1182067429088875,-0.3797936305708017,0.14674031506110416,FALSE
+Fay-Herriot,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,4,facility_delivery,0.10694107165164121,-0.31201580400928364,0.52814498043179825,FALSE
+Unit-level,Admin 1,education_yrs,1,education_yrs,0.4672881695552832,0.18370986525145913,0.7474520039715971,TRUE
+Unit-level,Admin 1,anc4plus,1,anc4plus,0.21689807785240953,-0.045654243337577845,0.4736949693087806,FALSE
+Unit-level,Admin 1,access_difficulty,1,access_difficulty,-0.173993814238173,-0.42653661431164297,0.07796875327244955,FALSE
+Unit-level,Admin 1,facility_delivery,1,facility_delivery,0.30069236444008046,0.02054414965899354,0.5725063287634128,TRUE
+Unit-level,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,4,education_yrs,0.4716491611583963,0.04509373699643669,0.8994283722584826,TRUE
+Unit-level,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,4,anc4plus,0.11002819281281791,-0.1601217995525658,0.3769617512248988,FALSE
+Unit-level,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,4,access_difficulty,-0.08201610863597983,-0.33702460618339686,0.17470857771408174,FALSE
+Unit-level,Admin 1,education_yrs + anc4plus + access_difficulty + facility_delivery,4,facility_delivery,-0.10554194142963022,-0.5189241916975142,0.3111823233444422,FALSE
+Fay-Herriot,Admin 2,education_yrs,1,education_yrs,0.4641643659968787,0.23745510283800914,0.6828076788956395,TRUE
+Fay-Herriot,Admin 2,anc4plus,1,anc4plus,0.07739175328552288,-0.06715557030318842,0.22169775609387046,FALSE
+Fay-Herriot,Admin 2,access_difficulty,1,access_difficulty,-0.1351134033509065,-0.27243432110143545,0.002912356511683967,FALSE
+Fay-Herriot,Admin 2,facility_delivery,1,facility_delivery,0.09115089330004152,-0.05874828755804188,0.2405278564358846,FALSE
+Fay-Herriot,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,4,education_yrs,0.44448108973511613,0.19491619689075035,0.6881269286490529,TRUE
+Fay-Herriot,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,4,anc4plus,0.018628142158914285,-0.13237131493178,0.16940351295927564,FALSE
+Fay-Herriot,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,4,access_difficulty,-0.08407817530656103,-0.23192210036504596,0.06470948330749081,FALSE
+Fay-Herriot,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,4,facility_delivery,-0.04485251588627504,-0.21297788760045983,0.12354625390054798,FALSE
+Unit-level,Admin 2,education_yrs,1,education_yrs,0.39397954403311913,0.1570314010375241,0.6220494982225819,TRUE
+Unit-level,Admin 2,anc4plus,1,anc4plus,0.1447731516455273,-0.02552228941027453,0.31028309242850594,FALSE
+Unit-level,Admin 2,access_difficulty,1,access_difficulty,-0.15750854791637883,-0.31937601822352624,0.007051824663596767,FALSE
+Unit-level,Admin 2,facility_delivery,1,facility_delivery,0.1531578962761151,-0.015091793267482077,0.31967720791738374,FALSE
+Unit-level,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,4,education_yrs,0.33100873677970766,0.06427910838040184,0.5876831131857644,TRUE
+Unit-level,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,4,anc4plus,0.07048796947966894,-0.11900150552014423,0.25354596193212803,FALSE
+Unit-level,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,4,access_difficulty,-0.0892255053102787,-0.26622683544520426,0.09037107922949622,FALSE
+Unit-level,Admin 2,education_yrs + anc4plus + access_difficulty + facility_delivery,4,facility_delivery,-0.006063466736855711,-0.21333654149049364,0.20796635614155054,FALSE
+Unit-level,Admin 2,Nested: education_yrs + anc4plus + access_difficulty + facility_delivery,4,education_yrs,0.3024955443468556,-0.1628561707470194,0.753035078940074,FALSE
+Unit-level,Admin 2,Nested: education_yrs + anc4plus + access_difficulty + facility_delivery,4,anc4plus,-0.045044020590994355,-0.24834950825892502,0.15744232619505585,FALSE
+Unit-level,Admin 2,Nested: education_yrs + anc4plus + access_difficulty + facility_delivery,4,access_difficulty,-0.10233472781654294,-0.32765132385861384,0.12074041298782942,FALSE
+Unit-level,Admin 2,Nested: education_yrs + anc4plus + access_difficulty + facility_delivery,4,facility_delivery,-0.03594244055120459,-0.2658380509415886,0.2017059428785474,FALSE
