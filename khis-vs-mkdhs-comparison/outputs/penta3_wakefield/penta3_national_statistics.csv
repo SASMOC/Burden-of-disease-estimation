@@ -1,0 +1,7 @@
+age_grp,model,mean,cv,lower,upper,exceed
+12-23 months,Direct,90.354,0.962,88.65,92.057,0.658
+12-23 months,Area-level,88.949,1.241,86.64,90.899,0.17
+12-23 months,Unit-level,90.467,1.051,88.567,92.231,0.703
+24-35 months,Direct,90.937,1.044,89.076,92.798,0.838
+24-35 months,Area-level,87.843,2.806,82.347,91.403,0.192
+24-35 months,Unit-level,91.083,1.1,88.86,92.897,0.85
