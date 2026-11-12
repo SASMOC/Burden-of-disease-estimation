@@ -1,0 +1,283 @@
+age_grp,model,key,county,n_children,mean,sd,lower,upper,exceed,cv
+12-23 months,Direct,baringo,Baringo,46,95.471,2.674,86.4,98.505,0.911,2.801
+12-23 months,Direct,bomet,Bomet,61,91.768,4.121,80.729,96.8,0.673,4.49
+12-23 months,Direct,bungoma,Bungoma,54,90.399,4.383,78.462,96.382,0.508,4.849
+12-23 months,Direct,busia,Busia,45,87.082,4.955,74.919,94.196,0.263,5.69
+12-23 months,Direct,elgeyomarakwet,Elgeyo-Marakwet,39,93.618,4.624,76.262,98.612,0.736,4.939
+12-23 months,Direct,embu,Embu,23,96.102,3.951,74.051,99.556,0.83,4.112
+12-23 months,Direct,garissa,Garissa,60,58.655,8.168,41.008,72.881,0,13.926
+12-23 months,Direct,homabay,Homa Bay,44,76.084,7.134,60.345,86.753,0.003,9.377
+12-23 months,Direct,isiolo,Isiolo,54,83.335,6.005,67.489,92.087,0.086,7.206
+12-23 months,Direct,kajiado,Kajiado,45,96.851,2.052,89.174,99.102,0.958,2.119
+12-23 months,Direct,kakamega,Kakamega,49,87.647,4.599,75.647,94.21,0.288,5.247
+12-23 months,Direct,kericho,Kericho,42,97.855,1.955,87.763,99.607,0.955,1.998
+12-23 months,Direct,kiambu,Kiambu,43,91.823,5.844,71.643,97.955,0.61,6.364
+12-23 months,Direct,kilifi,Kilifi,45,94.953,3.477,80.918,98.73,0.845,3.662
+12-23 months,Direct,kirinyaga,Kirinyaga,25,87.501,7.864,63.906,96.546,0.362,8.987
+12-23 months,Direct,kisii,Kisii,36,93.784,4.198,78.733,98.423,0.764,4.476
+12-23 months,Direct,kisumu,Kisumu,47,90.081,3.931,79.838,95.668,0.522,4.364
+12-23 months,Direct,kitui,Kitui,44,81.651,7.923,61.326,92.107,0.089,9.703
+12-23 months,Direct,kwale,Kwale,51,97.468,2.485,82.889,99.653,0.928,2.55
+12-23 months,Direct,laikipia,Laikipia,42,87.06,7.196,66.343,95.902,0.318,8.265
+12-23 months,Direct,lamu,Lamu,34,94.976,3.649,81.234,98.802,0.836,3.842
+12-23 months,Direct,machakos,Machakos,48,87.481,2.779,81.2,91.99,0.16,3.177
+12-23 months,Direct,makueni,Makueni,24,100,-0,NA,NA,NA,-0
+12-23 months,Direct,mandera,Mandera,84,68.262,3.743,60.951,75.108,0,5.483
+12-23 months,Direct,marsabit,Marsabit,48,86.621,4.984,74.042,93.631,0.231,5.754
+12-23 months,Direct,meru,Meru,28,82.992,6.838,65.871,92.632,0.094,8.24
+12-23 months,Direct,migori,Migori,78,97.941,1.652,89.711,99.569,0.972,1.687
+12-23 months,Direct,mombasa,Mombasa,36,89.48,4.792,76.464,95.993,0.487,5.355
+12-23 months,Direct,muranga,Murang'a,38,93.267,4.676,77.58,98.547,0.739,5.013
+12-23 months,Direct,nairobi,Nairobi,42,95.788,2.84,85.502,98.861,0.917,2.965
+12-23 months,Direct,nakuru,Nakuru,53,92.405,4.302,78.662,97.673,0.712,4.655
+12-23 months,Direct,nandi,Nandi,57,87.371,4.116,77.059,93.513,0.232,4.711
+12-23 months,Direct,narok,Narok,51,100,0,100,100,1,0
+12-23 months,Direct,nyamira,Nyamira,43,87.963,5.333,73.954,95.13,0.323,6.063
+12-23 months,Direct,nyandarua,Nyandarua,30,88.365,7.599,62.758,96.878,0.411,8.6
+12-23 months,Direct,nyeri,Nyeri,23,86.193,7.385,62.937,94.963,0.255,8.568
+12-23 months,Direct,samburu,Samburu,56,80.56,5.516,68.476,89.012,0.01,6.847
+12-23 months,Direct,siaya,Siaya,31,96.583,2.278,89.282,99.025,0.958,2.358
+12-23 months,Direct,taitataveta,Taita Taveta,26,94.985,4.926,71.284,99.308,0.784,5.186
+12-23 months,Direct,tanariver,Tana River,61,93.501,2.38,87.259,96.742,0.894,2.545
+12-23 months,Direct,tharakanithi,Tharaka-Nithi,19,77.792,10.336,54.335,91.586,0.051,13.287
+12-23 months,Direct,transnzoia,Trans Nzoia,31,88.323,7.929,61.573,97.087,0.407,8.978
+12-23 months,Direct,turkana,Turkana,61,93.373,3.083,84.409,97.331,0.829,3.302
+12-23 months,Direct,uasingishu,Uasin Gishu,50,82.177,8.726,59.074,93.627,0.119,10.619
+12-23 months,Direct,vihiga,Vihiga,27,100,-0,NA,NA,NA,-0
+12-23 months,Direct,wajir,Wajir,72,66.421,5.733,55.316,76.783,0,8.631
+12-23 months,Direct,westpokot,West Pokot,67,77.074,7.677,60.026,88.558,0.011,9.96
+12-23 months,Area-level,baringo,Baringo,46,94.606,3.224,86.062,98.491,0.913,3.408
+12-23 months,Area-level,bomet,Bomet,61,91.04,4.236,80.815,96.93,0.653,4.653
+12-23 months,Area-level,bungoma,Bungoma,54,89.568,4.605,78.331,96.266,0.528,5.141
+12-23 months,Area-level,busia,Busia,45,86.247,5.266,73.614,94.07,0.269,6.106
+12-23 months,Area-level,elgeyomarakwet,Elgeyo-Marakwet,39,92.202,5.861,77.555,98.659,0.738,6.357
+12-23 months,Area-level,embu,Embu,23,93.926,6.807,77.006,99.356,0.842,7.248
+12-23 months,Area-level,garissa,Garissa,60,58.566,8.047,42.75,73.575,0,13.74
+12-23 months,Area-level,homabay,Homa Bay,44,76.029,6.925,61.419,87.496,0.006,9.108
+12-23 months,Area-level,isiolo,Isiolo,54,82.311,6.135,68.073,91.699,0.086,7.454
+12-23 months,Area-level,kajiado,Kajiado,45,96.082,2.804,88.939,99.091,0.963,2.918
+12-23 months,Area-level,kakamega,Kakamega,49,86.927,4.778,76.17,94.056,0.299,5.496
+12-23 months,Area-level,kericho,Kericho,42,96.779,3.203,86.822,99.593,0.955,3.31
+12-23 months,Area-level,kiambu,Kiambu,43,90.19,7.123,72.025,98.102,0.637,7.898
+12-23 months,Area-level,kilifi,Kilifi,45,93.984,4.294,82.307,98.749,0.862,4.569
+12-23 months,Area-level,kirinyaga,Kirinyaga,25,85.736,8.862,64.54,96.613,0.391,10.336
+12-23 months,Area-level,kisii,Kisii,36,92.63,5.035,78.59,98.39,0.782,5.435
+12-23 months,Area-level,kisumu,Kisumu,47,89.642,3.864,80.712,95.367,0.526,4.31
+12-23 months,Area-level,kitui,Kitui,44,81.041,7.837,61.134,92.579,0.089,9.671
+12-23 months,Area-level,kwale,Kwale,51,96.186,4.225,84.713,99.632,0.932,4.393
+12-23 months,Area-level,laikipia,Laikipia,42,85.48,7.945,65.175,96.058,0.316,9.295
+12-23 months,Area-level,lamu,Lamu,34,93.634,4.761,80.88,98.792,0.81,5.085
+12-23 months,Area-level,machakos,Machakos,48,87.289,2.744,81.445,92.008,0.152,3.143
+12-23 months,Area-level,makueni,Makueni,24,73.399,35.387,0.284,99.999,0.56,48.212
+12-23 months,Area-level,mandera,Mandera,84,68.242,3.752,60.954,75.314,0,5.499
+12-23 months,Area-level,marsabit,Marsabit,48,85.858,5.111,72.904,93.727,0.209,5.953
+12-23 months,Area-level,meru,Meru,28,81.975,7.007,66.084,92.211,0.088,8.548
+12-23 months,Area-level,migori,Migori,78,97.227,2.525,90.912,99.616,0.982,2.597
+12-23 months,Area-level,mombasa,Mombasa,36,88.599,5.287,75.554,95.908,0.463,5.967
+12-23 months,Area-level,muranga,Murang'a,38,91.954,5.661,76.845,98.246,0.729,6.157
+12-23 months,Area-level,nairobi,Nairobi,42,94.616,3.967,83.818,98.876,0.883,4.193
+12-23 months,Area-level,nakuru,Nakuru,53,91.215,4.999,79.011,97.506,0.689,5.48
+12-23 months,Area-level,nandi,Nandi,57,86.783,4.358,76.85,93.674,0.255,5.022
+12-23 months,Area-level,narok,Narok,51,100,0,100,100,1,0
+12-23 months,Area-level,nyamira,Nyamira,43,86.967,5.844,72.453,95.076,0.334,6.72
+12-23 months,Area-level,nyandarua,Nyandarua,30,87.04,7.816,67.182,97.155,0.428,8.98
+12-23 months,Area-level,nyeri,Nyeri,23,84.541,7.85,65.564,95.668,0.27,9.286
+12-23 months,Area-level,samburu,Samburu,56,80.008,5.742,66.026,89.42,0.015,7.176
+12-23 months,Area-level,siaya,Siaya,31,95.656,3.229,87.417,99.084,0.946,3.376
+12-23 months,Area-level,taitataveta,Taita Taveta,26,92.593,6.829,75.574,99.199,0.755,7.376
+12-23 months,Area-level,tanariver,Tana River,61,93.154,2.551,87.052,96.842,0.897,2.738
+12-23 months,Area-level,tharakanithi,Tharaka-Nithi,19,76.061,10.434,50.791,92.213,0.063,13.718
+12-23 months,Area-level,transnzoia,Trans Nzoia,31,86.349,9.121,63.974,97.221,0.42,10.563
+12-23 months,Area-level,turkana,Turkana,61,92.67,3.536,83.548,97.416,0.803,3.815
+12-23 months,Area-level,uasingishu,Uasin Gishu,50,80.913,8.964,59.131,94.186,0.142,11.078
+12-23 months,Area-level,vihiga,Vihiga,27,73.813,35.397,0.498,99.999,0.576,47.955
+12-23 months,Area-level,wajir,Wajir,72,66.537,5.614,54.919,77.096,0,8.438
+12-23 months,Area-level,westpokot,West Pokot,67,76.686,7.66,58.712,89.193,0.021,9.988
+12-23 months,Unit-level,baringo,Baringo,46,90.088,2.902,83.457,94.895,0.565,3.222
+12-23 months,Unit-level,bomet,Bomet,61,90.846,2.862,84.383,95.645,0.662,3.15
+12-23 months,Unit-level,bungoma,Bungoma,54,89.623,3.087,82.402,94.563,0.506,3.444
+12-23 months,Unit-level,busia,Busia,45,89.297,3.471,80.947,94.381,0.47,3.887
+12-23 months,Unit-level,elgeyomarakwet,Elgeyo-Marakwet,39,89.593,3.69,81.022,95.087,0.519,4.119
+12-23 months,Unit-level,embu,Embu,23,90.244,3.163,82.368,95.155,0.608,3.505
+12-23 months,Unit-level,garissa,Garissa,60,84.165,6.387,67.716,92.339,0.129,7.588
+12-23 months,Unit-level,homabay,Homa Bay,44,88.738,3.615,79.717,93.731,0.416,4.074
+12-23 months,Unit-level,isiolo,Isiolo,54,88.066,4.133,77.593,94.239,0.353,4.693
+12-23 months,Unit-level,kajiado,Kajiado,45,92.066,2.308,86.924,96.08,0.844,2.507
+12-23 months,Unit-level,kakamega,Kakamega,49,89.319,3.103,81.321,93.989,0.476,3.474
+12-23 months,Unit-level,kericho,Kericho,42,90.973,2.535,85.355,95.657,0.686,2.787
+12-23 months,Unit-level,kiambu,Kiambu,43,91.194,2.346,85.852,95.201,0.725,2.572
+12-23 months,Unit-level,kilifi,Kilifi,45,91.604,2.581,86.29,96.185,0.748,2.818
+12-23 months,Unit-level,kirinyaga,Kirinyaga,25,89.717,3.304,82.404,95.064,0.529,3.682
+12-23 months,Unit-level,kisii,Kisii,36,91.34,2.937,85.446,96.239,0.722,3.215
+12-23 months,Unit-level,kisumu,Kisumu,47,90.239,2.853,83.739,94.889,0.588,3.161
+12-23 months,Unit-level,kitui,Kitui,44,88.859,3.269,81.283,93.517,0.426,3.679
+12-23 months,Unit-level,kwale,Kwale,51,91.504,2.945,84.643,96.327,0.714,3.219
+12-23 months,Unit-level,laikipia,Laikipia,42,89.476,2.927,83.047,94.346,0.477,3.272
+12-23 months,Unit-level,lamu,Lamu,34,88.21,5.227,74.744,95.338,0.397,5.925
+12-23 months,Unit-level,machakos,Machakos,48,89.959,2.593,84.173,94.178,0.554,2.882
+12-23 months,Unit-level,makueni,Makueni,24,91.402,2.805,85.38,96.067,0.741,3.069
+12-23 months,Unit-level,mandera,Mandera,84,82.19,8.671,58.685,92.819,0.135,10.549
+12-23 months,Unit-level,marsabit,Marsabit,48,87.887,4.477,76.225,94.32,0.349,5.094
+12-23 months,Unit-level,meru,Meru,28,88.722,3.309,80.785,93.804,0.393,3.73
+12-23 months,Unit-level,migori,Migori,78,92.594,2.52,87.038,96.898,0.846,2.721
+12-23 months,Unit-level,mombasa,Mombasa,36,90.429,3.186,83.192,95.487,0.611,3.523
+12-23 months,Unit-level,muranga,Murang'a,38,90.479,2.962,83.605,95.596,0.619,3.273
+12-23 months,Unit-level,nairobi,Nairobi,42,93.334,1.814,89.711,96.539,0.96,1.943
+12-23 months,Unit-level,nakuru,Nakuru,53,91.127,2.143,86.197,94.768,0.746,2.351
+12-23 months,Unit-level,nandi,Nandi,57,89.5,3.311,81.913,94.558,0.499,3.699
+12-23 months,Unit-level,narok,Narok,51,92.386,2.543,87.178,96.825,0.832,2.753
+12-23 months,Unit-level,nyamira,Nyamira,43,90.321,3.123,83.049,95.142,0.587,3.457
+12-23 months,Unit-level,nyandarua,Nyandarua,30,90.148,3.108,83.564,95.025,0.581,3.448
+12-23 months,Unit-level,nyeri,Nyeri,23,89.379,3.571,80.59,94.516,0.477,3.995
+12-23 months,Unit-level,samburu,Samburu,56,88.461,3.771,79.205,94.13,0.389,4.263
+12-23 months,Unit-level,siaya,Siaya,31,90.467,2.966,83.87,95.426,0.616,3.279
+12-23 months,Unit-level,taitataveta,Taita Taveta,26,90.846,3.011,84.026,95.552,0.669,3.315
+12-23 months,Unit-level,tanariver,Tana River,61,89.584,3.32,81.589,94.963,0.502,3.706
+12-23 months,Unit-level,tharakanithi,Tharaka-Nithi,19,88.992,3.95,79.302,94.743,0.46,4.439
+12-23 months,Unit-level,transnzoia,Trans Nzoia,31,89.15,3.683,80.111,94.829,0.445,4.131
+12-23 months,Unit-level,turkana,Turkana,61,89.657,3.325,81.626,95.131,0.515,3.708
+12-23 months,Unit-level,uasingishu,Uasin Gishu,50,88.312,3.349,79.571,93.107,0.337,3.792
+12-23 months,Unit-level,vihiga,Vihiga,27,90.43,3.37,83.007,95.864,0.612,3.726
+12-23 months,Unit-level,wajir,Wajir,72,84.156,6.42,67.365,92.04,0.142,7.628
+12-23 months,Unit-level,westpokot,West Pokot,67,87.637,4.051,77.263,93.535,0.291,4.623
+24-35 months,Direct,baringo,Baringo,46,95.368,2.495,86.649,98.525,0.931,2.616
+24-35 months,Direct,bomet,Bomet,61,94.72,2.587,87.133,97.993,0.903,2.731
+24-35 months,Direct,bungoma,Bungoma,51,99.341,0.665,95.153,99.919,0.998,0.67
+24-35 months,Direct,busia,Busia,46,93.039,3.368,82.724,97.525,0.774,3.62
+24-35 months,Direct,elgeyomarakwet,Elgeyo-Marakwet,35,91.302,5.077,74.931,97.133,0.58,5.561
+24-35 months,Direct,embu,Embu,24,88.989,7.427,64.595,97.465,0.456,8.346
+24-35 months,Direct,garissa,Garissa,66,80.38,3.409,73.045,86.419,0,4.242
+24-35 months,Direct,homabay,Homa Bay,63,80.837,6.179,65.349,89.604,0.016,7.643
+24-35 months,Direct,isiolo,Isiolo,41,76.835,8.115,56.599,88.794,0.013,10.562
+24-35 months,Direct,kajiado,Kajiado,40,94.829,5.24,69.596,99.302,0.78,5.526
+24-35 months,Direct,kakamega,Kakamega,51,93.516,4.694,74.508,98.422,0.709,5.02
+24-35 months,Direct,kericho,Kericho,33,97.25,2.821,79.648,99.649,0.905,2.901
+24-35 months,Direct,kiambu,Kiambu,47,90.803,4.398,78.399,96.506,0.568,4.843
+24-35 months,Direct,kilifi,Kilifi,49,94.669,3.949,79.992,98.895,0.811,4.171
+24-35 months,Direct,kirinyaga,Kirinyaga,19,78.613,11.846,46.369,93.595,0.086,15.069
+24-35 months,Direct,kisii,Kisii,35,95.738,3.404,82.5,99.113,0.872,3.555
+24-35 months,Direct,kisumu,Kisumu,56,94.788,2.717,86.614,98.055,0.891,2.866
+24-35 months,Direct,kitui,Kitui,35,92.094,4.472,78.01,97.502,0.642,4.856
+24-35 months,Direct,kwale,Kwale,47,100,NA,NA,NA,NA,NA
+24-35 months,Direct,laikipia,Laikipia,21,90.415,4.546,76.548,96.236,0.526,5.028
+24-35 months,Direct,lamu,Lamu,43,90.757,4.319,78.551,96.441,0.576,4.759
+24-35 months,Direct,machakos,Machakos,34,89.485,6.401,69.389,96.965,0.453,7.154
+24-35 months,Direct,makueni,Makueni,40,100,-0,NA,NA,NA,-0
+24-35 months,Direct,mandera,Mandera,103,69.435,5.566,55.855,78.927,0,8.016
+24-35 months,Direct,marsabit,Marsabit,60,92.811,3.349,82.288,97.175,0.745,3.608
+24-35 months,Direct,meru,Meru,37,98.176,1.836,89.264,99.732,0.967,1.87
+24-35 months,Direct,migori,Migori,54,98.216,1.841,86.749,99.698,0.962,1.874
+24-35 months,Direct,mombasa,Mombasa,30,80.205,8.566,58.311,92.472,0.071,10.679
+24-35 months,Direct,muranga,Murang'a,39,84.052,6.145,68.436,92.416,0.13,7.311
+24-35 months,Direct,nairobi,Nairobi,59,89.131,3.778,78.833,94.97,0.417,4.239
+24-35 months,Direct,nakuru,Nakuru,51,100,NA,NA,NA,NA,NA
+24-35 months,Direct,nandi,Nandi,37,77.209,6.553,61.801,87.164,0.003,8.487
+24-35 months,Direct,narok,Narok,41,96.419,2.899,83.211,99.231,0.896,3.006
+24-35 months,Direct,nyamira,Nyamira,38,89.706,5.088,75.287,96.2,0.488,5.672
+24-35 months,Direct,nyandarua,Nyandarua,23,100,0,100,100,1,0
+24-35 months,Direct,nyeri,Nyeri,16,89.116,7.516,62.886,97.565,0.459,8.434
+24-35 months,Direct,samburu,Samburu,56,89.133,2.499,83.43,93.36,0.362,2.804
+24-35 months,Direct,siaya,Siaya,46,88.638,4.342,76.972,94.744,0.37,4.898
+24-35 months,Direct,taitataveta,Taita Taveta,26,100,-0,NA,NA,NA,-0
+24-35 months,Direct,tanariver,Tana River,54,95.323,3.094,83.976,98.73,0.873,3.246
+24-35 months,Direct,tharakanithi,Tharaka-Nithi,22,87.045,4.499,74.829,93.825,0.229,5.169
+24-35 months,Direct,transnzoia,Trans Nzoia,51,86.049,4.819,74.081,93.122,0.167,5.6
+24-35 months,Direct,turkana,Turkana,55,78.612,6.233,63.919,88.14,0.008,7.929
+24-35 months,Direct,uasingishu,Uasin Gishu,45,84.625,8.632,60.017,96.105,0.217,10.201
+24-35 months,Direct,vihiga,Vihiga,39,98.748,1.298,91.361,99.833,0.982,1.315
+24-35 months,Direct,wajir,Wajir,74,63.329,7.44,47.121,76.405,0,11.748
+24-35 months,Direct,westpokot,West Pokot,61,91.421,3.14,82.988,96.039,0.673,3.435
+24-35 months,Area-level,baringo,Baringo,46,94.726,2.901,87.144,98.402,0.936,3.063
+24-35 months,Area-level,bomet,Bomet,61,94.19,3.016,87.04,98.15,0.91,3.202
+24-35 months,Area-level,bungoma,Bungoma,51,98.832,1.549,94.856,99.903,0.995,1.568
+24-35 months,Area-level,busia,Busia,46,92.416,3.725,82.896,97.235,0.791,4.03
+24-35 months,Area-level,elgeyomarakwet,Elgeyo-Marakwet,35,90.292,5.63,76.607,97.472,0.626,6.236
+24-35 months,Area-level,embu,Embu,24,87.462,7.973,66.367,97.263,0.467,9.116
+24-35 months,Area-level,garissa,Garissa,66,80.417,3.289,73.377,85.961,0,4.089
+24-35 months,Area-level,homabay,Homa Bay,63,80.185,6.445,66.022,90.307,0.031,8.038
+24-35 months,Area-level,isiolo,Isiolo,41,75.756,8.569,55.599,89.339,0.017,11.311
+24-35 months,Area-level,kajiado,Kajiado,40,92.443,7.403,72.922,99.309,0.758,8.008
+24-35 months,Area-level,kakamega,Kakamega,51,92.239,5.568,78.055,98.57,0.745,6.037
+24-35 months,Area-level,kericho,Kericho,33,95.695,4.659,82.835,99.672,0.913,4.868
+24-35 months,Area-level,kiambu,Kiambu,47,90.131,4.753,78.321,96.741,0.583,5.274
+24-35 months,Area-level,kilifi,Kilifi,49,93.363,4.881,80.949,98.802,0.822,5.228
+24-35 months,Area-level,kirinyaga,Kirinyaga,19,77.491,11.619,50.213,94.037,0.113,14.995
+24-35 months,Area-level,kisii,Kisii,35,94.38,4.427,82.181,99.047,0.88,4.69
+24-35 months,Area-level,kisumu,Kisumu,56,94.101,3.19,86.005,98.197,0.9,3.39
+24-35 months,Area-level,kitui,Kitui,35,91.039,5.19,78.417,97.344,0.669,5.701
+24-35 months,Area-level,kwale,Kwale,47,72.035,36.489,0.214,99.999,0.563,50.655
+24-35 months,Area-level,laikipia,Laikipia,21,89.343,5.219,76.328,96.287,0.547,5.841
+24-35 months,Area-level,lamu,Lamu,43,89.771,4.827,78.064,96.291,0.536,5.377
+24-35 months,Area-level,machakos,Machakos,34,88.387,6.939,71.089,97.171,0.5,7.851
+24-35 months,Area-level,makueni,Makueni,40,76.242,34.914,0.424,100,0.627,45.794
+24-35 months,Area-level,mandera,Mandera,103,69.325,5.434,58.292,79.492,0,7.838
+24-35 months,Area-level,marsabit,Marsabit,60,92.036,3.664,82.852,97.313,0.755,3.981
+24-35 months,Area-level,meru,Meru,37,97.055,3.153,88.375,99.716,0.962,3.249
+24-35 months,Area-level,migori,Migori,54,96.97,3.493,87.517,99.757,0.958,3.602
+24-35 months,Area-level,mombasa,Mombasa,30,79.212,8.757,58.867,92.26,0.076,11.055
+24-35 months,Area-level,muranga,Murang'a,39,83.344,6.564,67.415,93.051,0.133,7.876
+24-35 months,Area-level,nairobi,Nairobi,59,88.76,3.939,79.897,94.91,0.42,4.437
+24-35 months,Area-level,nakuru,Nakuru,51,76.193,35.104,0.369,100,0.632,46.072
+24-35 months,Area-level,nandi,Nandi,37,76.787,6.244,63.964,87.791,0.005,8.131
+24-35 months,Area-level,narok,Narok,41,95.211,4.049,84.521,99.302,0.901,4.253
+24-35 months,Area-level,nyamira,Nyamira,38,89.032,5.529,75.707,96.229,0.515,6.21
+24-35 months,Area-level,nyandarua,Nyandarua,23,100,0,100,100,1,0
+24-35 months,Area-level,nyeri,Nyeri,16,87.756,8.286,66.639,97.573,0.483,9.442
+24-35 months,Area-level,samburu,Samburu,56,88.847,2.594,83.438,93.23,0.35,2.92
+24-35 months,Area-level,siaya,Siaya,46,87.911,4.589,76.979,94.765,0.374,5.219
+24-35 months,Area-level,taitataveta,Taita Taveta,26,75.362,34.867,0.286,100,0.601,46.266
+24-35 months,Area-level,tanariver,Tana River,54,94.494,3.833,85.063,98.705,0.886,4.057
+24-35 months,Area-level,tharakanithi,Tharaka-Nithi,22,86.872,4.398,77.251,93.915,0.256,5.062
+24-35 months,Area-level,transnzoia,Trans Nzoia,51,85.371,4.969,73.802,92.983,0.167,5.82
+24-35 months,Area-level,turkana,Turkana,55,78.236,6.194,64.897,88.395,0.009,7.918
+24-35 months,Area-level,uasingishu,Uasin Gishu,45,82.631,9.309,60.162,95.637,0.227,11.266
+24-35 months,Area-level,vihiga,Vihiga,39,97.916,2.554,91.593,99.833,0.978,2.608
+24-35 months,Area-level,wajir,Wajir,74,63.329,7.16,48.264,77.243,0,11.306
+24-35 months,Area-level,westpokot,West Pokot,61,90.864,3.534,82.71,96.115,0.661,3.889
+24-35 months,Unit-level,baringo,Baringo,46,91.28,2.184,86.728,95.175,0.779,2.393
+24-35 months,Unit-level,bomet,Bomet,61,91.754,2.051,88.034,95.848,0.833,2.235
+24-35 months,Unit-level,bungoma,Bungoma,51,92.086,2.089,87.854,96.257,0.873,2.269
+24-35 months,Unit-level,busia,Busia,46,91.419,2.328,86.521,95.767,0.785,2.547
+24-35 months,Unit-level,elgeyomarakwet,Elgeyo-Marakwet,35,91.111,2.515,86.008,95.172,0.762,2.76
+24-35 months,Unit-level,embu,Embu,24,91.061,2.517,85.333,95.041,0.746,2.764
+24-35 months,Unit-level,garissa,Garissa,66,90.147,3.199,82.509,94.483,0.64,3.548
+24-35 months,Unit-level,homabay,Homa Bay,63,90.456,2.53,83.741,94.095,0.67,2.797
+24-35 months,Unit-level,isiolo,Isiolo,41,90.429,3.061,82.426,94.559,0.679,3.385
+24-35 months,Unit-level,kajiado,Kajiado,40,91.553,2.201,87.228,95.514,0.824,2.404
+24-35 months,Unit-level,kakamega,Kakamega,51,91.495,1.975,87.454,95.483,0.81,2.158
+24-35 months,Unit-level,kericho,Kericho,33,91.646,2.155,87.07,95.569,0.85,2.351
+24-35 months,Unit-level,kiambu,Kiambu,47,91.106,2.001,86.472,94.498,0.764,2.196
+24-35 months,Unit-level,kilifi,Kilifi,49,91.487,2.134,86.741,95.693,0.792,2.333
+24-35 months,Unit-level,kirinyaga,Kirinyaga,19,90.65,2.599,84.605,94.386,0.704,2.867
+24-35 months,Unit-level,kisii,Kisii,35,91.753,2.122,87.356,96.043,0.821,2.313
+24-35 months,Unit-level,kisumu,Kisumu,56,91.658,2.099,86.999,95.573,0.823,2.29
+24-35 months,Unit-level,kitui,Kitui,35,91.104,2.249,85.663,95.147,0.762,2.469
+24-35 months,Unit-level,kwale,Kwale,47,91.548,2.469,86.477,96.425,0.783,2.697
+24-35 months,Unit-level,laikipia,Laikipia,21,91.041,2.401,85.404,95.026,0.754,2.637
+24-35 months,Unit-level,lamu,Lamu,43,90.655,2.969,83.398,95.388,0.687,3.275
+24-35 months,Unit-level,machakos,Machakos,34,91.066,2.254,85.724,94.632,0.766,2.475
+24-35 months,Unit-level,makueni,Makueni,40,91.914,2.077,87.997,96.336,0.858,2.26
+24-35 months,Unit-level,mandera,Mandera,103,87.827,5.944,69.906,93.391,0.466,6.768
+24-35 months,Unit-level,marsabit,Marsabit,60,90.711,2.548,84.831,94.865,0.676,2.809
+24-35 months,Unit-level,meru,Meru,37,91.652,2.029,87.365,95.623,0.819,2.214
+24-35 months,Unit-level,migori,Migori,54,92.072,2.083,88.266,96.359,0.877,2.262
+24-35 months,Unit-level,mombasa,Mombasa,30,89.69,3.441,80.304,94.111,0.577,3.837
+24-35 months,Unit-level,muranga,Murang'a,39,90.583,2.541,84.033,94.217,0.692,2.806
+24-35 months,Unit-level,nairobi,Nairobi,59,90.449,1.842,85.871,93.419,0.664,2.036
+24-35 months,Unit-level,nakuru,Nakuru,51,92.516,1.938,89.025,96.609,0.917,2.094
+24-35 months,Unit-level,nandi,Nandi,37,90.655,2.7,83.473,94.633,0.715,2.978
+24-35 months,Unit-level,narok,Narok,41,91.861,2.092,87.278,96.17,0.842,2.277
+24-35 months,Unit-level,nyamira,Nyamira,38,91.312,2.327,86.126,95.585,0.781,2.549
+24-35 months,Unit-level,nyandarua,Nyandarua,23,91.463,2.279,86.788,95.691,0.784,2.491
+24-35 months,Unit-level,nyeri,Nyeri,16,91.073,2.416,86.021,95.136,0.754,2.653
+24-35 months,Unit-level,samburu,Samburu,56,90.746,2.449,85.302,94.861,0.695,2.699
+24-35 months,Unit-level,siaya,Siaya,46,91.146,2.262,86.194,94.941,0.769,2.482
+24-35 months,Unit-level,taitataveta,Taita Taveta,26,91.498,2.173,86.988,95.415,0.806,2.375
+24-35 months,Unit-level,tanariver,Tana River,54,91.126,2.269,86.606,95.382,0.753,2.489
+24-35 months,Unit-level,tharakanithi,Tharaka-Nithi,22,90.951,2.417,85.397,95.082,0.715,2.657
+24-35 months,Unit-level,transnzoia,Trans Nzoia,51,90.738,2.595,84.105,94.642,0.706,2.86
+24-35 months,Unit-level,turkana,Turkana,55,90.142,2.932,82.746,94.087,0.616,3.253
+24-35 months,Unit-level,uasingishu,Uasin Gishu,45,90.677,2.379,85.276,94.632,0.693,2.624
+24-35 months,Unit-level,vihiga,Vihiga,39,91.656,2.258,87.049,96.37,0.806,2.463
+24-35 months,Unit-level,wajir,Wajir,74,89.012,4.116,76.11,93.569,0.518,4.625
+24-35 months,Unit-level,westpokot,West Pokot,61,91.007,2.488,85.005,94.761,0.764,2.734

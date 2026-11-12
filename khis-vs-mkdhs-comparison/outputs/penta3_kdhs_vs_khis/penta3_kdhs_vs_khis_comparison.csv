@@ -1,0 +1,433 @@
+key,county,model,kdhs,lo,hi,denominator,khis,diff,khis_in_ci,band
+baringo,Baringo,Direct,95.47,86.4,98.5,Live births (estimated),77.95,-17.52,FALSE,10+ pp
+baringo,Baringo,Direct,95.47,86.4,98.5,Under-1 population,80.27,-15.2,FALSE,10+ pp
+baringo,Baringo,Direct,95.47,86.4,98.5,MOH 711 facility births,128.64,33.16,FALSE,10+ pp
+bomet,Bomet,Direct,91.77,80.73,96.8,Live births (estimated),80.75,-11.01,TRUE,10+ pp
+bomet,Bomet,Direct,91.77,80.73,96.8,Under-1 population,83.4,-8.37,TRUE,5-10 pp
+bomet,Bomet,Direct,91.77,80.73,96.8,MOH 711 facility births,101.89,10.12,FALSE,10+ pp
+bungoma,Bungoma,Direct,90.4,78.46,96.38,Live births (estimated),76.24,-14.16,FALSE,10+ pp
+bungoma,Bungoma,Direct,90.4,78.46,96.38,Under-1 population,78.58,-11.82,TRUE,10+ pp
+bungoma,Bungoma,Direct,90.4,78.46,96.38,MOH 711 facility births,103.9,13.5,FALSE,10+ pp
+busia,Busia,Direct,87.08,74.92,94.2,Live births (estimated),74.65,-12.43,FALSE,10+ pp
+busia,Busia,Direct,87.08,74.92,94.2,Under-1 population,77.02,-10.07,TRUE,10+ pp
+busia,Busia,Direct,87.08,74.92,94.2,MOH 711 facility births,139.57,52.49,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Direct,93.62,76.26,98.61,Live births (estimated),67.74,-25.88,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Direct,93.62,76.26,98.61,Under-1 population,70.09,-23.53,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Direct,93.62,76.26,98.61,MOH 711 facility births,107.33,13.71,FALSE,10+ pp
+embu,Embu,Direct,96.1,74.05,99.56,Live births (estimated),78.27,-17.84,TRUE,10+ pp
+embu,Embu,Direct,96.1,74.05,99.56,Under-1 population,81.88,-14.23,TRUE,10+ pp
+embu,Embu,Direct,96.1,74.05,99.56,MOH 711 facility births,115.45,19.35,FALSE,10+ pp
+garissa,Garissa,Direct,58.66,41.01,72.88,Live births (estimated),91.82,33.16,FALSE,10+ pp
+garissa,Garissa,Direct,58.66,41.01,72.88,Under-1 population,93.47,34.82,FALSE,10+ pp
+garissa,Garissa,Direct,58.66,41.01,72.88,MOH 711 facility births,162.72,104.07,FALSE,10+ pp
+homabay,Homa Bay,Direct,76.08,60.34,86.75,Live births (estimated),84.17,8.09,TRUE,5-10 pp
+homabay,Homa Bay,Direct,76.08,60.34,86.75,Under-1 population,86.87,10.78,FALSE,10+ pp
+homabay,Homa Bay,Direct,76.08,60.34,86.75,MOH 711 facility births,122.47,46.39,FALSE,10+ pp
+isiolo,Isiolo,Direct,83.33,67.49,92.09,Live births (estimated),93.49,10.15,FALSE,10+ pp
+isiolo,Isiolo,Direct,83.33,67.49,92.09,Under-1 population,96.68,13.34,FALSE,10+ pp
+isiolo,Isiolo,Direct,83.33,67.49,92.09,MOH 711 facility births,130.07,46.74,FALSE,10+ pp
+kajiado,Kajiado,Direct,96.85,89.17,99.1,Live births (estimated),92.12,-4.73,TRUE,<5 pp
+kajiado,Kajiado,Direct,96.85,89.17,99.1,Under-1 population,94.81,-2.04,TRUE,<5 pp
+kajiado,Kajiado,Direct,96.85,89.17,99.1,MOH 711 facility births,122.75,25.9,FALSE,10+ pp
+kakamega,Kakamega,Direct,87.65,75.65,94.21,Live births (estimated),78.03,-9.62,TRUE,5-10 pp
+kakamega,Kakamega,Direct,87.65,75.65,94.21,Under-1 population,80.67,-6.97,TRUE,5-10 pp
+kakamega,Kakamega,Direct,87.65,75.65,94.21,MOH 711 facility births,121.34,33.69,FALSE,10+ pp
+kericho,Kericho,Direct,97.86,87.76,99.61,Live births (estimated),76.18,-21.68,FALSE,10+ pp
+kericho,Kericho,Direct,97.86,87.76,99.61,Under-1 population,80.25,-17.6,FALSE,10+ pp
+kericho,Kericho,Direct,97.86,87.76,99.61,MOH 711 facility births,100.17,2.32,FALSE,<5 pp
+kiambu,Kiambu,Direct,91.82,71.64,97.96,Live births (estimated),83.12,-8.7,TRUE,5-10 pp
+kiambu,Kiambu,Direct,91.82,71.64,97.96,Under-1 population,85.69,-6.13,TRUE,5-10 pp
+kiambu,Kiambu,Direct,91.82,71.64,97.96,MOH 711 facility births,104.49,12.67,FALSE,10+ pp
+kilifi,Kilifi,Direct,94.95,80.92,98.73,Live births (estimated),69.79,-25.17,FALSE,10+ pp
+kilifi,Kilifi,Direct,94.95,80.92,98.73,Under-1 population,71.95,-23.01,FALSE,10+ pp
+kilifi,Kilifi,Direct,94.95,80.92,98.73,MOH 711 facility births,107.41,12.46,FALSE,10+ pp
+kirinyaga,Kirinyaga,Direct,87.5,63.91,96.55,Live births (estimated),87.62,0.12,TRUE,<5 pp
+kirinyaga,Kirinyaga,Direct,87.5,63.91,96.55,Under-1 population,90.51,3.01,TRUE,<5 pp
+kirinyaga,Kirinyaga,Direct,87.5,63.91,96.55,MOH 711 facility births,100.68,13.17,FALSE,10+ pp
+kisii,Kisii,Direct,93.78,78.73,98.42,Live births (estimated),75.67,-18.12,FALSE,10+ pp
+kisii,Kisii,Direct,93.78,78.73,98.42,Under-1 population,78.16,-15.63,FALSE,10+ pp
+kisii,Kisii,Direct,93.78,78.73,98.42,MOH 711 facility births,113.48,19.7,FALSE,10+ pp
+kisumu,Kisumu,Direct,90.08,79.84,95.67,Live births (estimated),81.66,-8.42,TRUE,5-10 pp
+kisumu,Kisumu,Direct,90.08,79.84,95.67,Under-1 population,85.63,-4.45,TRUE,<5 pp
+kisumu,Kisumu,Direct,90.08,79.84,95.67,MOH 711 facility births,119.81,29.73,FALSE,10+ pp
+kitui,Kitui,Direct,81.65,61.33,92.11,Live births (estimated),80.58,-1.07,TRUE,<5 pp
+kitui,Kitui,Direct,81.65,61.33,92.11,Under-1 population,83.35,1.7,TRUE,<5 pp
+kitui,Kitui,Direct,81.65,61.33,92.11,MOH 711 facility births,129.55,47.9,FALSE,10+ pp
+kwale,Kwale,Direct,97.47,82.89,99.65,Live births (estimated),67.28,-30.18,FALSE,10+ pp
+kwale,Kwale,Direct,97.47,82.89,99.65,Under-1 population,69.36,-28.11,FALSE,10+ pp
+kwale,Kwale,Direct,97.47,82.89,99.65,MOH 711 facility births,111.48,14.02,FALSE,10+ pp
+laikipia,Laikipia,Direct,87.06,66.34,95.9,Live births (estimated),79.28,-7.78,TRUE,5-10 pp
+laikipia,Laikipia,Direct,87.06,66.34,95.9,Under-1 population,81.76,-5.3,TRUE,5-10 pp
+laikipia,Laikipia,Direct,87.06,66.34,95.9,MOH 711 facility births,90.68,3.62,TRUE,<5 pp
+lamu,Lamu,Direct,94.98,81.23,98.8,Live births (estimated),79.75,-15.22,FALSE,10+ pp
+lamu,Lamu,Direct,94.98,81.23,98.8,Under-1 population,82.44,-12.54,TRUE,10+ pp
+lamu,Lamu,Direct,94.98,81.23,98.8,MOH 711 facility births,114.5,19.52,FALSE,10+ pp
+machakos,Machakos,Direct,87.48,81.2,91.99,Live births (estimated),84.7,-2.78,TRUE,<5 pp
+machakos,Machakos,Direct,87.48,81.2,91.99,Under-1 population,88.98,1.5,TRUE,<5 pp
+machakos,Machakos,Direct,87.48,81.2,91.99,MOH 711 facility births,139.07,51.58,FALSE,10+ pp
+makueni,Makueni,Direct,100,NA,NA,Live births (estimated),90.79,-9.21,FALSE,5-10 pp
+makueni,Makueni,Direct,100,NA,NA,Under-1 population,94.2,-5.8,FALSE,5-10 pp
+makueni,Makueni,Direct,100,NA,NA,MOH 711 facility births,111.3,11.3,FALSE,10+ pp
+mandera,Mandera,Direct,68.26,60.95,75.11,Live births (estimated),88.74,20.48,FALSE,10+ pp
+mandera,Mandera,Direct,68.26,60.95,75.11,Under-1 population,91.63,23.37,FALSE,10+ pp
+mandera,Mandera,Direct,68.26,60.95,75.11,MOH 711 facility births,123.35,55.08,FALSE,10+ pp
+marsabit,Marsabit,Direct,86.62,74.04,93.63,Live births (estimated),69.86,-16.77,FALSE,10+ pp
+marsabit,Marsabit,Direct,86.62,74.04,93.63,Under-1 population,72.15,-14.47,FALSE,10+ pp
+marsabit,Marsabit,Direct,86.62,74.04,93.63,MOH 711 facility births,140.11,53.48,FALSE,10+ pp
+meru,Meru,Direct,82.99,65.87,92.63,Live births (estimated),69.2,-13.79,TRUE,10+ pp
+meru,Meru,Direct,82.99,65.87,92.63,Under-1 population,76.02,-6.97,TRUE,5-10 pp
+meru,Meru,Direct,82.99,65.87,92.63,MOH 711 facility births,121.18,38.19,FALSE,10+ pp
+migori,Migori,Direct,97.94,89.71,99.57,Live births (estimated),86.86,-11.08,FALSE,10+ pp
+migori,Migori,Direct,97.94,89.71,99.57,Under-1 population,89.75,-8.19,TRUE,5-10 pp
+migori,Migori,Direct,97.94,89.71,99.57,MOH 711 facility births,109.41,11.47,FALSE,10+ pp
+mombasa,Mombasa,Direct,89.48,76.46,95.99,Live births (estimated),70.26,-19.22,FALSE,10+ pp
+mombasa,Mombasa,Direct,89.48,76.46,95.99,Under-1 population,72.48,-17,FALSE,10+ pp
+mombasa,Mombasa,Direct,89.48,76.46,95.99,MOH 711 facility births,112.28,22.8,FALSE,10+ pp
+muranga,Murang'a,Direct,93.27,77.58,98.55,Live births (estimated),78.11,-15.15,TRUE,10+ pp
+muranga,Murang'a,Direct,93.27,77.58,98.55,Under-1 population,80.52,-12.74,TRUE,10+ pp
+muranga,Murang'a,Direct,93.27,77.58,98.55,MOH 711 facility births,109.24,15.98,FALSE,10+ pp
+nairobi,Nairobi,Direct,95.79,85.5,98.86,Live births (estimated),77.18,-18.61,FALSE,10+ pp
+nairobi,Nairobi,Direct,95.79,85.5,98.86,Under-1 population,79.66,-16.13,FALSE,10+ pp
+nairobi,Nairobi,Direct,95.79,85.5,98.86,MOH 711 facility births,98.05,2.26,TRUE,<5 pp
+nakuru,Nakuru,Direct,92.4,78.66,97.67,Live births (estimated),78.25,-14.16,FALSE,10+ pp
+nakuru,Nakuru,Direct,92.4,78.66,97.67,Under-1 population,81.49,-10.92,TRUE,10+ pp
+nakuru,Nakuru,Direct,92.4,78.66,97.67,MOH 711 facility births,103.53,11.13,FALSE,10+ pp
+nandi,Nandi,Direct,87.37,77.06,93.51,Live births (estimated),72.99,-14.38,FALSE,10+ pp
+nandi,Nandi,Direct,87.37,77.06,93.51,Under-1 population,75.29,-12.08,FALSE,10+ pp
+nandi,Nandi,Direct,87.37,77.06,93.51,MOH 711 facility births,115.19,27.82,FALSE,10+ pp
+narok,Narok,Direct,100,100,100,Live births (estimated),81.53,-18.47,FALSE,10+ pp
+narok,Narok,Direct,100,100,100,Under-1 population,84.29,-15.71,FALSE,10+ pp
+narok,Narok,Direct,100,100,100,MOH 711 facility births,162.61,62.61,FALSE,10+ pp
+nyamira,Nyamira,Direct,87.96,73.95,95.13,Live births (estimated),88.25,0.29,TRUE,<5 pp
+nyamira,Nyamira,Direct,87.96,73.95,95.13,Under-1 population,91.13,3.16,TRUE,<5 pp
+nyamira,Nyamira,Direct,87.96,73.95,95.13,MOH 711 facility births,145,57.04,FALSE,10+ pp
+nyandarua,Nyandarua,Direct,88.36,62.76,96.88,Live births (estimated),76.31,-12.06,TRUE,10+ pp
+nyandarua,Nyandarua,Direct,88.36,62.76,96.88,Under-1 population,79.14,-9.22,TRUE,5-10 pp
+nyandarua,Nyandarua,Direct,88.36,62.76,96.88,MOH 711 facility births,149.36,61,FALSE,10+ pp
+nyeri,Nyeri,Direct,86.19,62.94,94.96,Live births (estimated),73,-13.19,TRUE,10+ pp
+nyeri,Nyeri,Direct,86.19,62.94,94.96,Under-1 population,75.32,-10.87,TRUE,10+ pp
+nyeri,Nyeri,Direct,86.19,62.94,94.96,MOH 711 facility births,101.69,15.5,FALSE,10+ pp
+samburu,Samburu,Direct,80.56,68.48,89.01,Live births (estimated),75.38,-5.18,TRUE,5-10 pp
+samburu,Samburu,Direct,80.56,68.48,89.01,Under-1 population,73.57,-6.99,TRUE,5-10 pp
+samburu,Samburu,Direct,80.56,68.48,89.01,MOH 711 facility births,159.94,79.38,FALSE,10+ pp
+siaya,Siaya,Direct,96.58,89.28,99.03,Live births (estimated),86.17,-10.41,FALSE,10+ pp
+siaya,Siaya,Direct,96.58,89.28,99.03,Under-1 population,88.95,-7.64,FALSE,5-10 pp
+siaya,Siaya,Direct,96.58,89.28,99.03,MOH 711 facility births,105.75,9.16,FALSE,5-10 pp
+taitataveta,Taita Taveta,Direct,94.98,71.28,99.31,Live births (estimated),80.02,-14.97,TRUE,10+ pp
+taitataveta,Taita Taveta,Direct,94.98,71.28,99.31,Under-1 population,82.53,-12.45,TRUE,10+ pp
+taitataveta,Taita Taveta,Direct,94.98,71.28,99.31,MOH 711 facility births,111.99,17.01,FALSE,10+ pp
+tanariver,Tana River,Direct,93.5,87.26,96.74,Live births (estimated),84.56,-8.94,FALSE,5-10 pp
+tanariver,Tana River,Direct,93.5,87.26,96.74,Under-1 population,87.17,-6.33,FALSE,5-10 pp
+tanariver,Tana River,Direct,93.5,87.26,96.74,MOH 711 facility births,162.76,69.26,FALSE,10+ pp
+tharakanithi,Tharaka-Nithi,Direct,77.79,54.34,91.59,Live births (estimated),76.77,-1.02,TRUE,<5 pp
+tharakanithi,Tharaka-Nithi,Direct,77.79,54.34,91.59,Under-1 population,78.83,1.03,TRUE,<5 pp
+tharakanithi,Tharaka-Nithi,Direct,77.79,54.34,91.59,MOH 711 facility births,114.92,37.13,FALSE,10+ pp
+transnzoia,Trans Nzoia,Direct,88.32,61.57,97.09,Live births (estimated),72.61,-15.71,TRUE,10+ pp
+transnzoia,Trans Nzoia,Direct,88.32,61.57,97.09,Under-1 population,74.74,-13.58,TRUE,10+ pp
+transnzoia,Trans Nzoia,Direct,88.32,61.57,97.09,MOH 711 facility births,116.78,28.46,FALSE,10+ pp
+turkana,Turkana,Direct,93.37,84.41,97.33,Live births (estimated),80.21,-13.17,FALSE,10+ pp
+turkana,Turkana,Direct,93.37,84.41,97.33,Under-1 population,83.24,-10.14,FALSE,10+ pp
+turkana,Turkana,Direct,93.37,84.41,97.33,MOH 711 facility births,130.15,36.77,FALSE,10+ pp
+uasingishu,Uasin Gishu,Direct,82.18,59.07,93.63,Live births (estimated),70.84,-11.34,TRUE,10+ pp
+uasingishu,Uasin Gishu,Direct,82.18,59.07,93.63,Under-1 population,73.29,-8.89,TRUE,5-10 pp
+uasingishu,Uasin Gishu,Direct,82.18,59.07,93.63,MOH 711 facility births,98.44,16.27,FALSE,10+ pp
+vihiga,Vihiga,Direct,100,NA,NA,Live births (estimated),71.32,-28.68,FALSE,10+ pp
+vihiga,Vihiga,Direct,100,NA,NA,Under-1 population,70.54,-29.46,FALSE,10+ pp
+vihiga,Vihiga,Direct,100,NA,NA,MOH 711 facility births,118.11,18.11,FALSE,10+ pp
+wajir,Wajir,Direct,66.42,55.32,76.78,Live births (estimated),71.25,4.83,TRUE,<5 pp
+wajir,Wajir,Direct,66.42,55.32,76.78,Under-1 population,75.01,8.59,TRUE,5-10 pp
+wajir,Wajir,Direct,66.42,55.32,76.78,MOH 711 facility births,139.28,72.86,FALSE,10+ pp
+westpokot,West Pokot,Direct,77.07,60.03,88.56,Live births (estimated),78.76,1.69,TRUE,<5 pp
+westpokot,West Pokot,Direct,77.07,60.03,88.56,Under-1 population,81.25,4.18,TRUE,<5 pp
+westpokot,West Pokot,Direct,77.07,60.03,88.56,MOH 711 facility births,135.1,58.03,FALSE,10+ pp
+baringo,Baringo,Area-level,94.61,86.06,98.49,Live births (estimated),77.95,-16.65,FALSE,10+ pp
+baringo,Baringo,Area-level,94.61,86.06,98.49,Under-1 population,80.27,-14.33,FALSE,10+ pp
+baringo,Baringo,Area-level,94.61,86.06,98.49,MOH 711 facility births,128.64,34.03,FALSE,10+ pp
+bomet,Bomet,Area-level,91.04,80.82,96.93,Live births (estimated),80.75,-10.29,FALSE,10+ pp
+bomet,Bomet,Area-level,91.04,80.82,96.93,Under-1 population,83.4,-7.64,TRUE,5-10 pp
+bomet,Bomet,Area-level,91.04,80.82,96.93,MOH 711 facility births,101.89,10.85,FALSE,10+ pp
+bungoma,Bungoma,Area-level,89.57,78.33,96.27,Live births (estimated),76.24,-13.33,FALSE,10+ pp
+bungoma,Bungoma,Area-level,89.57,78.33,96.27,Under-1 population,78.58,-10.99,TRUE,10+ pp
+bungoma,Bungoma,Area-level,89.57,78.33,96.27,MOH 711 facility births,103.9,14.33,FALSE,10+ pp
+busia,Busia,Area-level,86.25,73.61,94.07,Live births (estimated),74.65,-11.6,TRUE,10+ pp
+busia,Busia,Area-level,86.25,73.61,94.07,Under-1 population,77.02,-9.23,TRUE,5-10 pp
+busia,Busia,Area-level,86.25,73.61,94.07,MOH 711 facility births,139.57,53.32,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Area-level,92.2,77.56,98.66,Live births (estimated),67.74,-24.46,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Area-level,92.2,77.56,98.66,Under-1 population,70.09,-22.11,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Area-level,92.2,77.56,98.66,MOH 711 facility births,107.33,15.13,FALSE,10+ pp
+embu,Embu,Area-level,93.93,77.01,99.36,Live births (estimated),78.27,-15.66,TRUE,10+ pp
+embu,Embu,Area-level,93.93,77.01,99.36,Under-1 population,81.88,-12.05,TRUE,10+ pp
+embu,Embu,Area-level,93.93,77.01,99.36,MOH 711 facility births,115.45,21.52,FALSE,10+ pp
+garissa,Garissa,Area-level,58.57,42.75,73.58,Live births (estimated),91.82,33.25,FALSE,10+ pp
+garissa,Garissa,Area-level,58.57,42.75,73.58,Under-1 population,93.47,34.91,FALSE,10+ pp
+garissa,Garissa,Area-level,58.57,42.75,73.58,MOH 711 facility births,162.72,104.15,FALSE,10+ pp
+homabay,Homa Bay,Area-level,76.03,61.42,87.5,Live births (estimated),84.17,8.14,TRUE,5-10 pp
+homabay,Homa Bay,Area-level,76.03,61.42,87.5,Under-1 population,86.87,10.84,TRUE,10+ pp
+homabay,Homa Bay,Area-level,76.03,61.42,87.5,MOH 711 facility births,122.47,46.44,FALSE,10+ pp
+isiolo,Isiolo,Area-level,82.31,68.07,91.7,Live births (estimated),93.49,11.18,FALSE,10+ pp
+isiolo,Isiolo,Area-level,82.31,68.07,91.7,Under-1 population,96.68,14.37,FALSE,10+ pp
+isiolo,Isiolo,Area-level,82.31,68.07,91.7,MOH 711 facility births,130.07,47.76,FALSE,10+ pp
+kajiado,Kajiado,Area-level,96.08,88.94,99.09,Live births (estimated),92.12,-3.96,TRUE,<5 pp
+kajiado,Kajiado,Area-level,96.08,88.94,99.09,Under-1 population,94.81,-1.27,TRUE,<5 pp
+kajiado,Kajiado,Area-level,96.08,88.94,99.09,MOH 711 facility births,122.75,26.67,FALSE,10+ pp
+kakamega,Kakamega,Area-level,86.93,76.17,94.06,Live births (estimated),78.03,-8.9,TRUE,5-10 pp
+kakamega,Kakamega,Area-level,86.93,76.17,94.06,Under-1 population,80.67,-6.25,TRUE,5-10 pp
+kakamega,Kakamega,Area-level,86.93,76.17,94.06,MOH 711 facility births,121.34,34.41,FALSE,10+ pp
+kericho,Kericho,Area-level,96.78,86.82,99.59,Live births (estimated),76.18,-20.6,FALSE,10+ pp
+kericho,Kericho,Area-level,96.78,86.82,99.59,Under-1 population,80.25,-16.53,FALSE,10+ pp
+kericho,Kericho,Area-level,96.78,86.82,99.59,MOH 711 facility births,100.17,3.39,FALSE,<5 pp
+kiambu,Kiambu,Area-level,90.19,72.03,98.1,Live births (estimated),83.12,-7.07,TRUE,5-10 pp
+kiambu,Kiambu,Area-level,90.19,72.03,98.1,Under-1 population,85.69,-4.5,TRUE,<5 pp
+kiambu,Kiambu,Area-level,90.19,72.03,98.1,MOH 711 facility births,104.49,14.3,FALSE,10+ pp
+kilifi,Kilifi,Area-level,93.98,82.31,98.75,Live births (estimated),69.79,-24.2,FALSE,10+ pp
+kilifi,Kilifi,Area-level,93.98,82.31,98.75,Under-1 population,71.95,-22.04,FALSE,10+ pp
+kilifi,Kilifi,Area-level,93.98,82.31,98.75,MOH 711 facility births,107.41,13.43,FALSE,10+ pp
+kirinyaga,Kirinyaga,Area-level,85.74,64.54,96.61,Live births (estimated),87.62,1.89,TRUE,<5 pp
+kirinyaga,Kirinyaga,Area-level,85.74,64.54,96.61,Under-1 population,90.51,4.77,TRUE,<5 pp
+kirinyaga,Kirinyaga,Area-level,85.74,64.54,96.61,MOH 711 facility births,100.68,14.94,FALSE,10+ pp
+kisii,Kisii,Area-level,92.63,78.59,98.39,Live births (estimated),75.67,-16.96,FALSE,10+ pp
+kisii,Kisii,Area-level,92.63,78.59,98.39,Under-1 population,78.16,-14.47,FALSE,10+ pp
+kisii,Kisii,Area-level,92.63,78.59,98.39,MOH 711 facility births,113.48,20.85,FALSE,10+ pp
+kisumu,Kisumu,Area-level,89.64,80.71,95.37,Live births (estimated),81.66,-7.98,TRUE,5-10 pp
+kisumu,Kisumu,Area-level,89.64,80.71,95.37,Under-1 population,85.63,-4.01,TRUE,<5 pp
+kisumu,Kisumu,Area-level,89.64,80.71,95.37,MOH 711 facility births,119.81,30.17,FALSE,10+ pp
+kitui,Kitui,Area-level,81.04,61.13,92.58,Live births (estimated),80.58,-0.46,TRUE,<5 pp
+kitui,Kitui,Area-level,81.04,61.13,92.58,Under-1 population,83.35,2.31,TRUE,<5 pp
+kitui,Kitui,Area-level,81.04,61.13,92.58,MOH 711 facility births,129.55,48.51,FALSE,10+ pp
+kwale,Kwale,Area-level,96.19,84.71,99.63,Live births (estimated),67.28,-28.9,FALSE,10+ pp
+kwale,Kwale,Area-level,96.19,84.71,99.63,Under-1 population,69.36,-26.83,FALSE,10+ pp
+kwale,Kwale,Area-level,96.19,84.71,99.63,MOH 711 facility births,111.48,15.3,FALSE,10+ pp
+laikipia,Laikipia,Area-level,85.48,65.17,96.06,Live births (estimated),79.28,-6.2,TRUE,5-10 pp
+laikipia,Laikipia,Area-level,85.48,65.17,96.06,Under-1 population,81.76,-3.72,TRUE,<5 pp
+laikipia,Laikipia,Area-level,85.48,65.17,96.06,MOH 711 facility births,90.68,5.2,TRUE,5-10 pp
+lamu,Lamu,Area-level,93.63,80.88,98.79,Live births (estimated),79.75,-13.88,FALSE,10+ pp
+lamu,Lamu,Area-level,93.63,80.88,98.79,Under-1 population,82.44,-11.2,TRUE,10+ pp
+lamu,Lamu,Area-level,93.63,80.88,98.79,MOH 711 facility births,114.5,20.86,FALSE,10+ pp
+machakos,Machakos,Area-level,87.29,81.44,92.01,Live births (estimated),84.7,-2.59,TRUE,<5 pp
+machakos,Machakos,Area-level,87.29,81.44,92.01,Under-1 population,88.98,1.69,TRUE,<5 pp
+machakos,Machakos,Area-level,87.29,81.44,92.01,MOH 711 facility births,139.07,51.78,FALSE,10+ pp
+makueni,Makueni,Area-level,73.4,0.28,100,Live births (estimated),90.79,17.39,TRUE,10+ pp
+makueni,Makueni,Area-level,73.4,0.28,100,Under-1 population,94.2,20.8,TRUE,10+ pp
+makueni,Makueni,Area-level,73.4,0.28,100,MOH 711 facility births,111.3,37.9,FALSE,10+ pp
+mandera,Mandera,Area-level,68.24,60.95,75.31,Live births (estimated),88.74,20.5,FALSE,10+ pp
+mandera,Mandera,Area-level,68.24,60.95,75.31,Under-1 population,91.63,23.39,FALSE,10+ pp
+mandera,Mandera,Area-level,68.24,60.95,75.31,MOH 711 facility births,123.35,55.1,FALSE,10+ pp
+marsabit,Marsabit,Area-level,85.86,72.9,93.73,Live births (estimated),69.86,-16,FALSE,10+ pp
+marsabit,Marsabit,Area-level,85.86,72.9,93.73,Under-1 population,72.15,-13.7,FALSE,10+ pp
+marsabit,Marsabit,Area-level,85.86,72.9,93.73,MOH 711 facility births,140.11,54.25,FALSE,10+ pp
+meru,Meru,Area-level,81.97,66.08,92.21,Live births (estimated),69.2,-12.78,TRUE,10+ pp
+meru,Meru,Area-level,81.97,66.08,92.21,Under-1 population,76.02,-5.96,TRUE,5-10 pp
+meru,Meru,Area-level,81.97,66.08,92.21,MOH 711 facility births,121.18,39.21,FALSE,10+ pp
+migori,Migori,Area-level,97.23,90.91,99.62,Live births (estimated),86.86,-10.37,FALSE,10+ pp
+migori,Migori,Area-level,97.23,90.91,99.62,Under-1 population,89.75,-7.48,FALSE,5-10 pp
+migori,Migori,Area-level,97.23,90.91,99.62,MOH 711 facility births,109.41,12.18,FALSE,10+ pp
+mombasa,Mombasa,Area-level,88.6,75.55,95.91,Live births (estimated),70.26,-18.34,FALSE,10+ pp
+mombasa,Mombasa,Area-level,88.6,75.55,95.91,Under-1 population,72.48,-16.12,FALSE,10+ pp
+mombasa,Mombasa,Area-level,88.6,75.55,95.91,MOH 711 facility births,112.28,23.68,FALSE,10+ pp
+muranga,Murang'a,Area-level,91.95,76.84,98.25,Live births (estimated),78.11,-13.84,TRUE,10+ pp
+muranga,Murang'a,Area-level,91.95,76.84,98.25,Under-1 population,80.52,-11.43,TRUE,10+ pp
+muranga,Murang'a,Area-level,91.95,76.84,98.25,MOH 711 facility births,109.24,17.29,FALSE,10+ pp
+nairobi,Nairobi,Area-level,94.62,83.82,98.88,Live births (estimated),77.18,-17.44,FALSE,10+ pp
+nairobi,Nairobi,Area-level,94.62,83.82,98.88,Under-1 population,79.66,-14.96,FALSE,10+ pp
+nairobi,Nairobi,Area-level,94.62,83.82,98.88,MOH 711 facility births,98.05,3.43,TRUE,<5 pp
+nakuru,Nakuru,Area-level,91.22,79.01,97.51,Live births (estimated),78.25,-12.97,FALSE,10+ pp
+nakuru,Nakuru,Area-level,91.22,79.01,97.51,Under-1 population,81.49,-9.73,TRUE,5-10 pp
+nakuru,Nakuru,Area-level,91.22,79.01,97.51,MOH 711 facility births,103.53,12.32,FALSE,10+ pp
+nandi,Nandi,Area-level,86.78,76.85,93.67,Live births (estimated),72.99,-13.79,FALSE,10+ pp
+nandi,Nandi,Area-level,86.78,76.85,93.67,Under-1 population,75.29,-11.49,FALSE,10+ pp
+nandi,Nandi,Area-level,86.78,76.85,93.67,MOH 711 facility births,115.19,28.4,FALSE,10+ pp
+narok,Narok,Area-level,100,100,100,Live births (estimated),81.53,-18.47,FALSE,10+ pp
+narok,Narok,Area-level,100,100,100,Under-1 population,84.29,-15.71,FALSE,10+ pp
+narok,Narok,Area-level,100,100,100,MOH 711 facility births,162.61,62.61,FALSE,10+ pp
+nyamira,Nyamira,Area-level,86.97,72.45,95.08,Live births (estimated),88.25,1.29,TRUE,<5 pp
+nyamira,Nyamira,Area-level,86.97,72.45,95.08,Under-1 population,91.13,4.16,TRUE,<5 pp
+nyamira,Nyamira,Area-level,86.97,72.45,95.08,MOH 711 facility births,145,58.04,FALSE,10+ pp
+nyandarua,Nyandarua,Area-level,87.04,67.18,97.16,Live births (estimated),76.31,-10.73,TRUE,10+ pp
+nyandarua,Nyandarua,Area-level,87.04,67.18,97.16,Under-1 population,79.14,-7.9,TRUE,5-10 pp
+nyandarua,Nyandarua,Area-level,87.04,67.18,97.16,MOH 711 facility births,149.36,62.32,FALSE,10+ pp
+nyeri,Nyeri,Area-level,84.54,65.56,95.67,Live births (estimated),73,-11.54,TRUE,10+ pp
+nyeri,Nyeri,Area-level,84.54,65.56,95.67,Under-1 population,75.32,-9.22,TRUE,5-10 pp
+nyeri,Nyeri,Area-level,84.54,65.56,95.67,MOH 711 facility births,101.69,17.15,FALSE,10+ pp
+samburu,Samburu,Area-level,80.01,66.03,89.42,Live births (estimated),75.38,-4.63,TRUE,<5 pp
+samburu,Samburu,Area-level,80.01,66.03,89.42,Under-1 population,73.57,-6.44,TRUE,5-10 pp
+samburu,Samburu,Area-level,80.01,66.03,89.42,MOH 711 facility births,159.94,79.93,FALSE,10+ pp
+siaya,Siaya,Area-level,95.66,87.42,99.08,Live births (estimated),86.17,-9.48,FALSE,5-10 pp
+siaya,Siaya,Area-level,95.66,87.42,99.08,Under-1 population,88.95,-6.71,TRUE,5-10 pp
+siaya,Siaya,Area-level,95.66,87.42,99.08,MOH 711 facility births,105.75,10.09,FALSE,10+ pp
+taitataveta,Taita Taveta,Area-level,92.59,75.57,99.2,Live births (estimated),80.02,-12.58,TRUE,10+ pp
+taitataveta,Taita Taveta,Area-level,92.59,75.57,99.2,Under-1 population,82.53,-10.06,TRUE,10+ pp
+taitataveta,Taita Taveta,Area-level,92.59,75.57,99.2,MOH 711 facility births,111.99,19.4,FALSE,10+ pp
+tanariver,Tana River,Area-level,93.15,87.05,96.84,Live births (estimated),84.56,-8.59,FALSE,5-10 pp
+tanariver,Tana River,Area-level,93.15,87.05,96.84,Under-1 population,87.17,-5.98,TRUE,5-10 pp
+tanariver,Tana River,Area-level,93.15,87.05,96.84,MOH 711 facility births,162.76,69.6,FALSE,10+ pp
+tharakanithi,Tharaka-Nithi,Area-level,76.06,50.79,92.21,Live births (estimated),76.77,0.71,TRUE,<5 pp
+tharakanithi,Tharaka-Nithi,Area-level,76.06,50.79,92.21,Under-1 population,78.83,2.76,TRUE,<5 pp
+tharakanithi,Tharaka-Nithi,Area-level,76.06,50.79,92.21,MOH 711 facility births,114.92,38.86,FALSE,10+ pp
+transnzoia,Trans Nzoia,Area-level,86.35,63.97,97.22,Live births (estimated),72.61,-13.74,TRUE,10+ pp
+transnzoia,Trans Nzoia,Area-level,86.35,63.97,97.22,Under-1 population,74.74,-11.61,TRUE,10+ pp
+transnzoia,Trans Nzoia,Area-level,86.35,63.97,97.22,MOH 711 facility births,116.78,30.43,FALSE,10+ pp
+turkana,Turkana,Area-level,92.67,83.55,97.42,Live births (estimated),80.21,-12.46,FALSE,10+ pp
+turkana,Turkana,Area-level,92.67,83.55,97.42,Under-1 population,83.24,-9.43,FALSE,5-10 pp
+turkana,Turkana,Area-level,92.67,83.55,97.42,MOH 711 facility births,130.15,37.48,FALSE,10+ pp
+uasingishu,Uasin Gishu,Area-level,80.91,59.13,94.19,Live births (estimated),70.84,-10.07,TRUE,10+ pp
+uasingishu,Uasin Gishu,Area-level,80.91,59.13,94.19,Under-1 population,73.29,-7.62,TRUE,5-10 pp
+uasingishu,Uasin Gishu,Area-level,80.91,59.13,94.19,MOH 711 facility births,98.44,17.53,FALSE,10+ pp
+vihiga,Vihiga,Area-level,73.81,0.5,100,Live births (estimated),71.32,-2.49,TRUE,<5 pp
+vihiga,Vihiga,Area-level,73.81,0.5,100,Under-1 population,70.54,-3.27,TRUE,<5 pp
+vihiga,Vihiga,Area-level,73.81,0.5,100,MOH 711 facility births,118.11,44.3,FALSE,10+ pp
+wajir,Wajir,Area-level,66.54,54.92,77.1,Live births (estimated),71.25,4.71,TRUE,<5 pp
+wajir,Wajir,Area-level,66.54,54.92,77.1,Under-1 population,75.01,8.48,TRUE,5-10 pp
+wajir,Wajir,Area-level,66.54,54.92,77.1,MOH 711 facility births,139.28,72.75,FALSE,10+ pp
+westpokot,West Pokot,Area-level,76.69,58.71,89.19,Live births (estimated),78.76,2.08,TRUE,<5 pp
+westpokot,West Pokot,Area-level,76.69,58.71,89.19,Under-1 population,81.25,4.56,TRUE,<5 pp
+westpokot,West Pokot,Area-level,76.69,58.71,89.19,MOH 711 facility births,135.1,58.41,FALSE,10+ pp
+baringo,Baringo,Unit-level,90.09,83.46,94.89,Live births (estimated),77.95,-12.14,FALSE,10+ pp
+baringo,Baringo,Unit-level,90.09,83.46,94.89,Under-1 population,80.27,-9.81,FALSE,5-10 pp
+baringo,Baringo,Unit-level,90.09,83.46,94.89,MOH 711 facility births,128.64,38.55,FALSE,10+ pp
+bomet,Bomet,Unit-level,90.85,84.38,95.64,Live births (estimated),80.75,-10.09,FALSE,10+ pp
+bomet,Bomet,Unit-level,90.85,84.38,95.64,Under-1 population,83.4,-7.44,FALSE,5-10 pp
+bomet,Bomet,Unit-level,90.85,84.38,95.64,MOH 711 facility births,101.89,11.04,FALSE,10+ pp
+bungoma,Bungoma,Unit-level,89.62,82.4,94.56,Live births (estimated),76.24,-13.38,FALSE,10+ pp
+bungoma,Bungoma,Unit-level,89.62,82.4,94.56,Under-1 population,78.58,-11.04,FALSE,10+ pp
+bungoma,Bungoma,Unit-level,89.62,82.4,94.56,MOH 711 facility births,103.9,14.28,FALSE,10+ pp
+busia,Busia,Unit-level,89.3,80.95,94.38,Live births (estimated),74.65,-14.65,FALSE,10+ pp
+busia,Busia,Unit-level,89.3,80.95,94.38,Under-1 population,77.02,-12.28,FALSE,10+ pp
+busia,Busia,Unit-level,89.3,80.95,94.38,MOH 711 facility births,139.57,50.27,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Unit-level,89.59,81.02,95.09,Live births (estimated),67.74,-21.85,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Unit-level,89.59,81.02,95.09,Under-1 population,70.09,-19.5,FALSE,10+ pp
+elgeyomarakwet,Elgeyo-Marakwet,Unit-level,89.59,81.02,95.09,MOH 711 facility births,107.33,17.74,FALSE,10+ pp
+embu,Embu,Unit-level,90.24,82.37,95.16,Live births (estimated),78.27,-11.98,FALSE,10+ pp
+embu,Embu,Unit-level,90.24,82.37,95.16,Under-1 population,81.88,-8.37,FALSE,5-10 pp
+embu,Embu,Unit-level,90.24,82.37,95.16,MOH 711 facility births,115.45,25.21,FALSE,10+ pp
+garissa,Garissa,Unit-level,84.17,67.72,92.34,Live births (estimated),91.82,7.65,TRUE,5-10 pp
+garissa,Garissa,Unit-level,84.17,67.72,92.34,Under-1 population,93.47,9.31,FALSE,5-10 pp
+garissa,Garissa,Unit-level,84.17,67.72,92.34,MOH 711 facility births,162.72,78.56,FALSE,10+ pp
+homabay,Homa Bay,Unit-level,88.74,79.72,93.73,Live births (estimated),84.17,-4.56,TRUE,<5 pp
+homabay,Homa Bay,Unit-level,88.74,79.72,93.73,Under-1 population,86.87,-1.87,TRUE,<5 pp
+homabay,Homa Bay,Unit-level,88.74,79.72,93.73,MOH 711 facility births,122.47,33.73,FALSE,10+ pp
+isiolo,Isiolo,Unit-level,88.07,77.59,94.24,Live births (estimated),93.49,5.42,TRUE,5-10 pp
+isiolo,Isiolo,Unit-level,88.07,77.59,94.24,Under-1 population,96.68,8.61,FALSE,5-10 pp
+isiolo,Isiolo,Unit-level,88.07,77.59,94.24,MOH 711 facility births,130.07,42.01,FALSE,10+ pp
+kajiado,Kajiado,Unit-level,92.07,86.92,96.08,Live births (estimated),92.12,0.05,TRUE,<5 pp
+kajiado,Kajiado,Unit-level,92.07,86.92,96.08,Under-1 population,94.81,2.75,TRUE,<5 pp
+kajiado,Kajiado,Unit-level,92.07,86.92,96.08,MOH 711 facility births,122.75,30.68,FALSE,10+ pp
+kakamega,Kakamega,Unit-level,89.32,81.32,93.99,Live births (estimated),78.03,-11.29,FALSE,10+ pp
+kakamega,Kakamega,Unit-level,89.32,81.32,93.99,Under-1 population,80.67,-8.65,FALSE,5-10 pp
+kakamega,Kakamega,Unit-level,89.32,81.32,93.99,MOH 711 facility births,121.34,32.02,FALSE,10+ pp
+kericho,Kericho,Unit-level,90.97,85.36,95.66,Live births (estimated),76.18,-14.8,FALSE,10+ pp
+kericho,Kericho,Unit-level,90.97,85.36,95.66,Under-1 population,80.25,-10.72,FALSE,10+ pp
+kericho,Kericho,Unit-level,90.97,85.36,95.66,MOH 711 facility births,100.17,9.2,FALSE,5-10 pp
+kiambu,Kiambu,Unit-level,91.19,85.85,95.2,Live births (estimated),83.12,-8.07,FALSE,5-10 pp
+kiambu,Kiambu,Unit-level,91.19,85.85,95.2,Under-1 population,85.69,-5.51,FALSE,5-10 pp
+kiambu,Kiambu,Unit-level,91.19,85.85,95.2,MOH 711 facility births,104.49,13.3,FALSE,10+ pp
+kilifi,Kilifi,Unit-level,91.6,86.29,96.18,Live births (estimated),69.79,-21.82,FALSE,10+ pp
+kilifi,Kilifi,Unit-level,91.6,86.29,96.18,Under-1 population,71.95,-19.66,FALSE,10+ pp
+kilifi,Kilifi,Unit-level,91.6,86.29,96.18,MOH 711 facility births,107.41,15.81,FALSE,10+ pp
+kirinyaga,Kirinyaga,Unit-level,89.72,82.4,95.06,Live births (estimated),87.62,-2.1,TRUE,<5 pp
+kirinyaga,Kirinyaga,Unit-level,89.72,82.4,95.06,Under-1 population,90.51,0.79,TRUE,<5 pp
+kirinyaga,Kirinyaga,Unit-level,89.72,82.4,95.06,MOH 711 facility births,100.68,10.96,FALSE,10+ pp
+kisii,Kisii,Unit-level,91.34,85.45,96.24,Live births (estimated),75.67,-15.67,FALSE,10+ pp
+kisii,Kisii,Unit-level,91.34,85.45,96.24,Under-1 population,78.16,-13.18,FALSE,10+ pp
+kisii,Kisii,Unit-level,91.34,85.45,96.24,MOH 711 facility births,113.48,22.14,FALSE,10+ pp
+kisumu,Kisumu,Unit-level,90.24,83.74,94.89,Live births (estimated),81.66,-8.58,FALSE,5-10 pp
+kisumu,Kisumu,Unit-level,90.24,83.74,94.89,Under-1 population,85.63,-4.61,TRUE,<5 pp
+kisumu,Kisumu,Unit-level,90.24,83.74,94.89,MOH 711 facility births,119.81,29.57,FALSE,10+ pp
+kitui,Kitui,Unit-level,88.86,81.28,93.52,Live births (estimated),80.58,-8.28,FALSE,5-10 pp
+kitui,Kitui,Unit-level,88.86,81.28,93.52,Under-1 population,83.35,-5.51,TRUE,5-10 pp
+kitui,Kitui,Unit-level,88.86,81.28,93.52,MOH 711 facility births,129.55,40.69,FALSE,10+ pp
+kwale,Kwale,Unit-level,91.5,84.64,96.33,Live births (estimated),67.28,-24.22,FALSE,10+ pp
+kwale,Kwale,Unit-level,91.5,84.64,96.33,Under-1 population,69.36,-22.15,FALSE,10+ pp
+kwale,Kwale,Unit-level,91.5,84.64,96.33,MOH 711 facility births,111.48,19.98,FALSE,10+ pp
+laikipia,Laikipia,Unit-level,89.48,83.05,94.35,Live births (estimated),79.28,-10.2,FALSE,10+ pp
+laikipia,Laikipia,Unit-level,89.48,83.05,94.35,Under-1 population,81.76,-7.71,FALSE,5-10 pp
+laikipia,Laikipia,Unit-level,89.48,83.05,94.35,MOH 711 facility births,90.68,1.2,TRUE,<5 pp
+lamu,Lamu,Unit-level,88.21,74.74,95.34,Live births (estimated),79.75,-8.46,TRUE,5-10 pp
+lamu,Lamu,Unit-level,88.21,74.74,95.34,Under-1 population,82.44,-5.77,TRUE,5-10 pp
+lamu,Lamu,Unit-level,88.21,74.74,95.34,MOH 711 facility births,114.5,26.29,FALSE,10+ pp
+machakos,Machakos,Unit-level,89.96,84.17,94.18,Live births (estimated),84.7,-5.26,TRUE,5-10 pp
+machakos,Machakos,Unit-level,89.96,84.17,94.18,Under-1 population,88.98,-0.98,TRUE,<5 pp
+machakos,Machakos,Unit-level,89.96,84.17,94.18,MOH 711 facility births,139.07,49.11,FALSE,10+ pp
+makueni,Makueni,Unit-level,91.4,85.38,96.07,Live births (estimated),90.79,-0.61,TRUE,<5 pp
+makueni,Makueni,Unit-level,91.4,85.38,96.07,Under-1 population,94.2,2.79,TRUE,<5 pp
+makueni,Makueni,Unit-level,91.4,85.38,96.07,MOH 711 facility births,111.3,19.9,FALSE,10+ pp
+mandera,Mandera,Unit-level,82.19,58.69,92.82,Live births (estimated),88.74,6.55,TRUE,5-10 pp
+mandera,Mandera,Unit-level,82.19,58.69,92.82,Under-1 population,91.63,9.44,TRUE,5-10 pp
+mandera,Mandera,Unit-level,82.19,58.69,92.82,MOH 711 facility births,123.35,41.16,FALSE,10+ pp
+marsabit,Marsabit,Unit-level,87.89,76.22,94.32,Live births (estimated),69.86,-18.03,FALSE,10+ pp
+marsabit,Marsabit,Unit-level,87.89,76.22,94.32,Under-1 population,72.15,-15.73,FALSE,10+ pp
+marsabit,Marsabit,Unit-level,87.89,76.22,94.32,MOH 711 facility births,140.11,52.22,FALSE,10+ pp
+meru,Meru,Unit-level,88.72,80.78,93.8,Live births (estimated),69.2,-19.52,FALSE,10+ pp
+meru,Meru,Unit-level,88.72,80.78,93.8,Under-1 population,76.02,-12.7,FALSE,10+ pp
+meru,Meru,Unit-level,88.72,80.78,93.8,MOH 711 facility births,121.18,32.46,FALSE,10+ pp
+migori,Migori,Unit-level,92.59,87.04,96.9,Live births (estimated),86.86,-5.74,FALSE,5-10 pp
+migori,Migori,Unit-level,92.59,87.04,96.9,Under-1 population,89.75,-2.85,TRUE,<5 pp
+migori,Migori,Unit-level,92.59,87.04,96.9,MOH 711 facility births,109.41,16.82,FALSE,10+ pp
+mombasa,Mombasa,Unit-level,90.43,83.19,95.49,Live births (estimated),70.26,-20.17,FALSE,10+ pp
+mombasa,Mombasa,Unit-level,90.43,83.19,95.49,Under-1 population,72.48,-17.95,FALSE,10+ pp
+mombasa,Mombasa,Unit-level,90.43,83.19,95.49,MOH 711 facility births,112.28,21.85,FALSE,10+ pp
+muranga,Murang'a,Unit-level,90.48,83.61,95.6,Live births (estimated),78.11,-12.37,FALSE,10+ pp
+muranga,Murang'a,Unit-level,90.48,83.61,95.6,Under-1 population,80.52,-9.95,FALSE,5-10 pp
+muranga,Murang'a,Unit-level,90.48,83.61,95.6,MOH 711 facility births,109.24,18.77,FALSE,10+ pp
+nairobi,Nairobi,Unit-level,93.33,89.71,96.54,Live births (estimated),77.18,-16.16,FALSE,10+ pp
+nairobi,Nairobi,Unit-level,93.33,89.71,96.54,Under-1 population,79.66,-13.68,FALSE,10+ pp
+nairobi,Nairobi,Unit-level,93.33,89.71,96.54,MOH 711 facility births,98.05,4.72,FALSE,<5 pp
+nakuru,Nakuru,Unit-level,91.13,86.2,94.77,Live births (estimated),78.25,-12.88,FALSE,10+ pp
+nakuru,Nakuru,Unit-level,91.13,86.2,94.77,Under-1 population,81.49,-9.64,FALSE,5-10 pp
+nakuru,Nakuru,Unit-level,91.13,86.2,94.77,MOH 711 facility births,103.53,12.41,FALSE,10+ pp
+nandi,Nandi,Unit-level,89.5,81.91,94.56,Live births (estimated),72.99,-16.51,FALSE,10+ pp
+nandi,Nandi,Unit-level,89.5,81.91,94.56,Under-1 population,75.29,-14.21,FALSE,10+ pp
+nandi,Nandi,Unit-level,89.5,81.91,94.56,MOH 711 facility births,115.19,25.69,FALSE,10+ pp
+narok,Narok,Unit-level,92.39,87.18,96.83,Live births (estimated),81.53,-10.86,FALSE,10+ pp
+narok,Narok,Unit-level,92.39,87.18,96.83,Under-1 population,84.29,-8.1,FALSE,5-10 pp
+narok,Narok,Unit-level,92.39,87.18,96.83,MOH 711 facility births,162.61,70.22,FALSE,10+ pp
+nyamira,Nyamira,Unit-level,90.32,83.05,95.14,Live births (estimated),88.25,-2.07,TRUE,<5 pp
+nyamira,Nyamira,Unit-level,90.32,83.05,95.14,Under-1 population,91.13,0.8,TRUE,<5 pp
+nyamira,Nyamira,Unit-level,90.32,83.05,95.14,MOH 711 facility births,145,54.68,FALSE,10+ pp
+nyandarua,Nyandarua,Unit-level,90.15,83.56,95.03,Live births (estimated),76.31,-13.84,FALSE,10+ pp
+nyandarua,Nyandarua,Unit-level,90.15,83.56,95.03,Under-1 population,79.14,-11,FALSE,10+ pp
+nyandarua,Nyandarua,Unit-level,90.15,83.56,95.03,MOH 711 facility births,149.36,59.22,FALSE,10+ pp
+nyeri,Nyeri,Unit-level,89.38,80.59,94.52,Live births (estimated),73,-16.38,FALSE,10+ pp
+nyeri,Nyeri,Unit-level,89.38,80.59,94.52,Under-1 population,75.32,-14.05,FALSE,10+ pp
+nyeri,Nyeri,Unit-level,89.38,80.59,94.52,MOH 711 facility births,101.69,12.31,FALSE,10+ pp
+samburu,Samburu,Unit-level,88.46,79.2,94.13,Live births (estimated),75.38,-13.08,FALSE,10+ pp
+samburu,Samburu,Unit-level,88.46,79.2,94.13,Under-1 population,73.57,-14.89,FALSE,10+ pp
+samburu,Samburu,Unit-level,88.46,79.2,94.13,MOH 711 facility births,159.94,71.48,FALSE,10+ pp
+siaya,Siaya,Unit-level,90.47,83.87,95.43,Live births (estimated),86.17,-4.29,TRUE,<5 pp
+siaya,Siaya,Unit-level,90.47,83.87,95.43,Under-1 population,88.95,-1.52,TRUE,<5 pp
+siaya,Siaya,Unit-level,90.47,83.87,95.43,MOH 711 facility births,105.75,15.28,FALSE,10+ pp
+taitataveta,Taita Taveta,Unit-level,90.85,84.03,95.55,Live births (estimated),80.02,-10.83,FALSE,10+ pp
+taitataveta,Taita Taveta,Unit-level,90.85,84.03,95.55,Under-1 population,82.53,-8.31,FALSE,5-10 pp
+taitataveta,Taita Taveta,Unit-level,90.85,84.03,95.55,MOH 711 facility births,111.99,21.15,FALSE,10+ pp
+tanariver,Tana River,Unit-level,89.58,81.59,94.96,Live births (estimated),84.56,-5.02,TRUE,5-10 pp
+tanariver,Tana River,Unit-level,89.58,81.59,94.96,Under-1 population,87.17,-2.41,TRUE,<5 pp
+tanariver,Tana River,Unit-level,89.58,81.59,94.96,MOH 711 facility births,162.76,73.17,FALSE,10+ pp
+tharakanithi,Tharaka-Nithi,Unit-level,88.99,79.3,94.74,Live births (estimated),76.77,-12.22,FALSE,10+ pp
+tharakanithi,Tharaka-Nithi,Unit-level,88.99,79.3,94.74,Under-1 population,78.83,-10.17,FALSE,10+ pp
+tharakanithi,Tharaka-Nithi,Unit-level,88.99,79.3,94.74,MOH 711 facility births,114.92,25.93,FALSE,10+ pp
+transnzoia,Trans Nzoia,Unit-level,89.15,80.11,94.83,Live births (estimated),72.61,-16.54,FALSE,10+ pp
+transnzoia,Trans Nzoia,Unit-level,89.15,80.11,94.83,Under-1 population,74.74,-14.41,FALSE,10+ pp
+transnzoia,Trans Nzoia,Unit-level,89.15,80.11,94.83,MOH 711 facility births,116.78,27.63,FALSE,10+ pp
+turkana,Turkana,Unit-level,89.66,81.63,95.13,Live births (estimated),80.21,-9.45,FALSE,5-10 pp
+turkana,Turkana,Unit-level,89.66,81.63,95.13,Under-1 population,83.24,-6.42,TRUE,5-10 pp
+turkana,Turkana,Unit-level,89.66,81.63,95.13,MOH 711 facility births,130.15,40.49,FALSE,10+ pp
+uasingishu,Uasin Gishu,Unit-level,88.31,79.57,93.11,Live births (estimated),70.84,-17.47,FALSE,10+ pp
+uasingishu,Uasin Gishu,Unit-level,88.31,79.57,93.11,Under-1 population,73.29,-15.02,FALSE,10+ pp
+uasingishu,Uasin Gishu,Unit-level,88.31,79.57,93.11,MOH 711 facility births,98.44,10.13,FALSE,10+ pp
+vihiga,Vihiga,Unit-level,90.43,83.01,95.86,Live births (estimated),71.32,-19.11,FALSE,10+ pp
+vihiga,Vihiga,Unit-level,90.43,83.01,95.86,Under-1 population,70.54,-19.89,FALSE,10+ pp
+vihiga,Vihiga,Unit-level,90.43,83.01,95.86,MOH 711 facility births,118.11,27.68,FALSE,10+ pp
+wajir,Wajir,Unit-level,84.16,67.36,92.04,Live births (estimated),71.25,-12.91,TRUE,10+ pp
+wajir,Wajir,Unit-level,84.16,67.36,92.04,Under-1 population,75.01,-9.14,TRUE,5-10 pp
+wajir,Wajir,Unit-level,84.16,67.36,92.04,MOH 711 facility births,139.28,55.13,FALSE,10+ pp
+westpokot,West Pokot,Unit-level,87.64,77.26,93.53,Live births (estimated),78.76,-8.87,TRUE,5-10 pp
+westpokot,West Pokot,Unit-level,87.64,77.26,93.53,Under-1 population,81.25,-6.39,TRUE,5-10 pp
+westpokot,West Pokot,Unit-level,87.64,77.26,93.53,MOH 711 facility births,135.1,47.46,FALSE,10+ pp
+kenya,Kenya,Direct,90.35,88.65,92.06,Live births (estimated),78.73,-11.62,FALSE,10+ pp
+kenya,Kenya,Direct,90.35,88.65,92.06,Under-1 population,81.47,-8.88,FALSE,5-10 pp
+kenya,Kenya,Direct,90.35,88.65,92.06,MOH 711 facility births,115.75,25.39,FALSE,10+ pp
+kenya,Kenya,Area-level,88.95,86.64,90.9,Live births (estimated),78.73,-10.22,FALSE,10+ pp
+kenya,Kenya,Area-level,88.95,86.64,90.9,Under-1 population,81.47,-7.48,FALSE,5-10 pp
+kenya,Kenya,Area-level,88.95,86.64,90.9,MOH 711 facility births,115.75,26.8,FALSE,10+ pp
+kenya,Kenya,Unit-level,90.47,88.57,92.23,Live births (estimated),78.73,-11.73,FALSE,10+ pp
+kenya,Kenya,Unit-level,90.47,88.57,92.23,Under-1 population,81.47,-9,FALSE,5-10 pp
+kenya,Kenya,Unit-level,90.47,88.57,92.23,MOH 711 facility births,115.75,25.28,FALSE,10+ pp

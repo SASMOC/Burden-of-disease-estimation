@@ -1,0 +1,95 @@
+age_grp,county,n_unweighted,penta3_card_or_recall,lci,uci,penta3_card_only
+12-23 months,Baringo,46,95.5,85.1,98.7,81.2
+12-23 months,Bomet,61,91.8,77.8,97.3,82
+12-23 months,Bungoma,54,90.4,76.6,96.4,72.4
+12-23 months,Busia,45,87.1,72.6,94.5,67.1
+12-23 months,Elgeyo-Marakwet,39,93.6,73.9,98.7,88.7
+12-23 months,Embu,23,96.1,71.2,99.6,86
+12-23 months,Garissa,60,58.7,40.9,74.4,35.4
+12-23 months,Homa Bay,44,76.1,58.4,87.8,67.5
+12-23 months,Isiolo,54,83.3,66.7,92.6,63.5
+12-23 months,Kajiado,45,96.9,88.2,99.2,61.8
+12-23 months,Kakamega,49,87.6,74.7,94.5,69.4
+12-23 months,Kericho,42,97.9,86.2,99.7,74
+12-23 months,Kiambu,43,91.8,69.4,98.2,57.8
+12-23 months,Kilifi,45,95,80.4,98.9,71.8
+12-23 months,Kirinyaga,25,87.5,60.3,97,63.6
+12-23 months,Kisii,36,93.8,77.1,98.5,59.3
+12-23 months,Kisumu,47,90.1,78.3,95.8,66.8
+12-23 months,Kitui,44,81.7,59.4,93.1,63.4
+12-23 months,Kwale,51,97.5,81.8,99.7,80
+12-23 months,Laikipia,42,87.1,63.5,96.3,69.5
+12-23 months,Lamu,34,95,78.5,99,79.5
+12-23 months,Machakos,48,87.5,80.5,92.2,60.7
+12-23 months,Makueni,24,100,NA,NA,70.8
+12-23 months,Mandera,84,68.3,59.9,75.6,15
+12-23 months,Marsabit,48,86.6,72.2,94.2,60.1
+12-23 months,Meru,28,83,63.9,93.1,58.6
+12-23 months,Migori,78,97.9,89.5,99.6,77.4
+12-23 months,Mombasa,36,89.5,74.6,96.1,79
+12-23 months,Murang'a,38,93.3,74.4,98.5,79.2
+12-23 months,Nairobi,42,95.8,84.1,99,56.9
+12-23 months,Nakuru,53,92.4,77.1,97.8,70.9
+12-23 months,Nandi,57,87.4,75.9,93.8,80.8
+12-23 months,Narok,51,100,100,100,80.1
+12-23 months,Nyamira,43,88,71.4,95.5,52.7
+12-23 months,Nyandarua,30,88.4,60.8,97.4,70.8
+12-23 months,Nyeri,23,86.2,62.2,95.9,63
+12-23 months,Samburu,56,80.6,66.3,89.7,64.9
+12-23 months,Siaya,31,96.6,85.7,99.3,58.6
+12-23 months,Taita Taveta,26,95,66.9,99.4,83.4
+12-23 months,Tana River,61,93.5,85.7,97.2,74.9
+12-23 months,Tharaka-Nithi,19,77.8,48.7,92.8,68.2
+12-23 months,Trans Nzoia,31,88.3,59.5,97.5,68.9
+12-23 months,Turkana,61,93.4,83.2,97.6,83.5
+12-23 months,Uasin Gishu,50,82.2,56.9,94.1,49.8
+12-23 months,Vihiga,27,100,NA,NA,72.5
+12-23 months,Wajir,72,66.4,53.2,77.5,36
+12-23 months,West Pokot,67,77.1,57.3,89.4,36.1
+24-35 months,Baringo,46,95.4,86.1,98.6,69.7
+24-35 months,Bomet,61,94.7,85.8,98.2,71.1
+24-35 months,Bungoma,51,99.3,94.6,99.9,62.2
+24-35 months,Busia,46,93,81.7,97.6,59.1
+24-35 months,Elgeyo-Marakwet,35,91.3,72.9,97.6,70.4
+24-35 months,Embu,24,89,60.8,97.7,60.3
+24-35 months,Garissa,66,80.4,72.2,86.6,28
+24-35 months,Homa Bay,63,80.8,64.6,90.7,58.4
+24-35 months,Isiolo,41,76.8,55.7,89.8,56.1
+24-35 months,Kajiado,40,94.8,64.8,99.5,39.6
+24-35 months,Kakamega,51,93.5,74.3,98.6,65.2
+24-35 months,Kericho,33,97.3,79.2,99.7,61.2
+24-35 months,Kiambu,47,90.8,76.7,96.7,46.8
+24-35 months,Kilifi,49,94.7,77.5,98.9,56.7
+24-35 months,Kirinyaga,19,78.6,43.6,94.6,60.7
+24-35 months,Kisii,35,95.7,79.7,99.2,69.9
+24-35 months,Kisumu,56,94.8,85.2,98.3,57.8
+24-35 months,Kitui,35,92.1,76,97.7,74.3
+24-35 months,Kwale,47,100,NA,NA,63.3
+24-35 months,Laikipia,21,90.4,70.3,97.4,36.7
+24-35 months,Lamu,43,90.8,76.6,96.7,73.1
+24-35 months,Machakos,34,89.5,66.7,97.3,40.5
+24-35 months,Makueni,40,100,NA,NA,68.5
+24-35 months,Mandera,103,69.4,56.6,79.8,13.2
+24-35 months,Marsabit,60,92.8,81.5,97.4,55.6
+24-35 months,Meru,37,98.2,86.2,99.8,73.5
+24-35 months,Migori,54,98.2,85.9,99.8,68.8
+24-35 months,Mombasa,30,80.2,56.5,92.7,57.5
+24-35 months,Murang'a,39,84.1,66.8,93.2,62.3
+24-35 months,Nairobi,59,89.1,78.7,94.8,42
+24-35 months,Nakuru,51,100,NA,NA,58.1
+24-35 months,Nandi,37,77.2,60.7,88.1,62.1
+24-35 months,Narok,41,96.4,82,99.4,60.8
+24-35 months,Nyamira,38,89.7,73.2,96.5,65.9
+24-35 months,Nyandarua,23,100,100,100,64.3
+24-35 months,Nyeri,16,89.1,60.3,97.8,80.6
+24-35 months,Samburu,56,89.1,82.6,93.4,46.3
+24-35 months,Siaya,46,88.6,75.9,95.1,46.4
+24-35 months,Taita Taveta,26,100,NA,NA,62.4
+24-35 months,Tana River,54,95.3,82.4,98.9,76
+24-35 months,Tharaka-Nithi,22,87,73.3,94.3,59.8
+24-35 months,Trans Nzoia,51,86,72.6,93.5,66.6
+24-35 months,Turkana,55,78.6,62.6,89,60.4
+24-35 months,Uasin Gishu,45,84.6,58.1,95.6,43.7
+24-35 months,Vihiga,39,98.7,89.6,99.9,72
+24-35 months,Wajir,74,63.3,46.8,77.2,6
+24-35 months,West Pokot,61,91.4,82,96.1,49.3

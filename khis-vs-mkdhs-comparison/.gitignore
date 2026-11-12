@@ -1,0 +1,5 @@
+# DHS microdata is licensed and must not be redistributed
+KE_2025_INTERIMDHS_*/
+*.zip
+.DS_Store
+~$*

@@ -1,0 +1,10 @@
+"Indicator","median_CV","pct_CV_over_30","pct_CV_over_15","n_counties"
+"4+ ANC coverage",7.6,0,9,47
+"8+ ANC coverage",41,80,100,44
+"Facility delivery rate",4,0,7,43
+"PNC for infant within 48 hours",5,0,2,47
+"PNC for mother within 48 hours",5.8,0,4,47
+"Penta3 (12-23 months)",5.4,0,0,45
+"Penta3, MOH 711 live births / 0.911 (sensitivity)",5.4,0,0,45
+"Penta3, estimated live births (sensitivity)",5.4,0,0,45
+"Skilled birth attendance",3.6,0,7,42
